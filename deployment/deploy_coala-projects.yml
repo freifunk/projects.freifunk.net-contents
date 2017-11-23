@@ -1,0 +1,9 @@
+---
+- name: checkout, customize and deploy coala-projects
+  hosts: all
+  vars:
+    install_user: "{{ install_user }}"
+    install_path: "{{ install_path }}"
+  roles:
+  - install_prerequisites
+  - deploy_coala
