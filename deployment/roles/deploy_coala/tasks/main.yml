@@ -1,2 +1,10 @@
 ---
-- name: prepare directories
+- name: checkout projects
+- git:
+    repo: https://github.com/freifunk/projects
+    dest: "{{ install_path }}/website"
+
+- name: checkout contents
+- git:
+    repo: https://github.com/freifunk/projects.freifunk.net-contents.git
+    dest: "{{ install_path }}/contents"
