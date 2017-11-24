@@ -10,7 +10,7 @@ initiatives:
 issues:
 markdown: freifunk_miktorik_metarouter.md
 mentors:
-  - johannesrudolph
+  - powerpan
 name: "Mikrotik MetaRouter architecture"
 requirements:
   - "Analyzing and coding"
