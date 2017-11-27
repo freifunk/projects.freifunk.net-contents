@@ -4,7 +4,7 @@
   vars:
     install_user: "{{ install_user }}"
     install_path: "{{ install_path }}"
-  become_user: {{ install_user }}
+  become_user: "{{ install_user }}"
   roles:
   - install_prerequisites
   - deploy_coala

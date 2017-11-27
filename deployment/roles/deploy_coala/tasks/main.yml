@@ -1,12 +1,13 @@
 ---
 - name: checkout projects
-- git:
+  git:
     repo: https://github.com/freifunk/projects
-    dest: "{{ install_path }}/website"
+    dest: "{{ install_path }}"
+    force: yes
 
 - name: delete collections
   file:
-    path: "{{ install_path }}/website/{{ item }}"
+    path: "{{ install_path }}/{{ item }}"
     state: absent
   with_items:
     - _faq
@@ -14,18 +15,16 @@
 
 - name: copy custom collections
   copy:
-    src: "{{ item }}"
-    dest: "{{ install_path }}/website/"
+    src: "../{{ item }}"
+    dest: "{{ install_path }}/"
   with_items:
     - collections/_faq
-    - collection/_projects
+    - collections/_projects
+    - data
+    - partials
 
-- name: copy partial files
-  copy:
-    src: "{{ item }}"
-    dest: "{{ install_path }}/website/partials"
-  with_items:
-    - _faq
-    - _projects
+- name: install jekyll deps
+  command: bundle install chdir="{{ install_path}}/"
 
 - name: build jekyll site
+  command: bundle exec jekyll build chdir="{{ install_path}}/"
