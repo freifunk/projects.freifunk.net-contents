@@ -4,7 +4,28 @@
     repo: https://github.com/freifunk/projects
     dest: "{{ install_path }}/website"
 
-- name: checkout contents
-- git:
-    repo: https://github.com/freifunk/projects.freifunk.net-contents.git
-    dest: "{{ install_path }}/contents"
+- name: delete collections
+  file:
+    path: "{{ install_path }}/website/{{ item }}"
+    state: absent
+  with_items:
+    - _faq
+    - _projects
+
+- name: copy custom collections
+  copy:
+    src: "{{ item }}"
+    dest: "{{ install_path }}/website/"
+  with_items:
+    - collections/_faq
+    - collection/_projects
+
+- name: copy partial files
+  copy:
+    src: "{{ item }}"
+    dest: "{{ install_path }}/website/partials"
+  with_items:
+    - _faq
+    - _projects
+
+- name: build jekyll site
