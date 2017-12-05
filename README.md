@@ -9,7 +9,7 @@ preparations:
 
 ## Defining Projects
 
-Mentors and admins can define projects in markdown using the following structure and save it in the _projects folder with a relevant filename:
+Mentors and admins can define projects in markdown using the following structure and save it in the collections/_projects folder with a relevant filename:
 
 ```
 ---
@@ -57,7 +57,7 @@ This space is for the main description. Use it wisely.
 
 ## Defining FAQs
 
-Users can also add FAQs by simply creating a markdown file in _faq folder.
+Users can also add FAQs by simply creating a markdown file in collections/_faq folder.
 
 Format for faq markdown file is as follows:
 ```
