@@ -1,11 +1,26 @@
 # projects.freifunk.net-contents
 contents to be displayed at our projects-page
 
-preparations:
+## Local testing
+
+* install ruby and gem as prerequsites
+* install jekyll: ```sudo gem install jekyll bundler```
+* checkout projects software ```git checkout https://github.com/freifunk/projects```
+* delete contents of the original software
+  * ```rm projects/_projects```
+  * ```rm projects/_faq```
+* copy our own contents
+  * ```cp collections/_projects projects/_projects```
+  * ```cp collections/_faq projects/_faq```
+* run jekyll and bundler
+  * ```cd projects```
+  * ```bundle install```
+  * ```bundle exec jekyll serve```
+
+## Deployment in Production
 
 * install ansible
 * run ```ansible-playbook deploy_coala-projects.yml -i path-to-your-inventory --limit "the server to deploy to" --extra-vars "install_user=your-install-user install_path=/path/to/install"```
-
 
 ## Defining Projects
 
