@@ -1,4 +1,4 @@
---
+---
 collaborating_projects:
   - freifunk
   - openwifi
