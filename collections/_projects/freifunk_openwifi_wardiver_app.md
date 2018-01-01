@@ -16,7 +16,7 @@ issues:
   - "https://sourceforge.net/p/libwlocate/code/ci/master/tree/master/android/"
 markdown: freifunk_openwifi_wardiver_app.md
 mentors:
-  - tata
+  - 2tata
   - saintbyte
 name: "Develop a new OpenWLANMap wardriver App which is compatible to newer Androids"
 requirements:
