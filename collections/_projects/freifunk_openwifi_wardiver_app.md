@@ -4,7 +4,9 @@ collaborating_projects:
   - openwifi
   - openWLANmap
 desc: "Develop a new OpenWLANMap wardriver App which is compatible to newer Androids"
-developers_involved: [ Jan-Tarek Butt, Казанцев Егор ]
+developers_involved:
+  - "Jan-Tarek Butt"
+  - "Казанцев Егор"
 difficulty: medium
 status: open
 initiatives:
@@ -14,8 +16,8 @@ issues:
   - "https://sourceforge.net/p/libwlocate/code/ci/master/tree/master/android/"
 markdown: freifunk_openwifi_wardiver_app.md
 mentors:
-  - [Jan-Tarek Butt](https://git.ffnw.de/tata)
-  - [Казанцев Егор](https://github.com/saintbyte)
+  - tata
+  - saintbyte
 name: "Develop a new OpenWLANMap wardriver App which is compatible to newer Androids"
 requirements:
   - "Analyzing, design and coding"
