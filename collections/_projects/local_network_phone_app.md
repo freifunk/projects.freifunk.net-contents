@@ -10,7 +10,7 @@ initiatives:
 issues:
 markdown: local_network_phone_app.md
 mentors:
-  - Moritz Warning
+  - mwarning 
 name: "Local Phone App"
 requirements:
   - "Analyzing and coding"
