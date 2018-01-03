@@ -3,6 +3,12 @@ contents to be displayed at our projects-page
 
 ## Local testing
 
+### Simple way
+
+* push your file to github and look it up there. github renders your markdown file and should display a table above the main text. If that's the case it is valid, most probably :)
+
+### Advanced way
+
 * install ruby and gem as prerequsites
 * install jekyll: ```sudo gem install jekyll bundler```
 * checkout projects software ```git checkout https://github.com/freifunk/projects```
