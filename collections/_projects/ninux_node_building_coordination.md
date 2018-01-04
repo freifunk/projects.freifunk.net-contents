@@ -9,7 +9,7 @@ initiatives:
   - GSoC
 markdown: ninux_node_building_coordination.md
 mentors:
-  - clauz
+  - cl4u2
 name: "Node building coordination Web platform"
 requirements:
   - "Web programming"
@@ -32,8 +32,9 @@ Building a community network node is often a task that cannot be accomplished by
 
 Today community network members use a set general purpose online tools (e.g. mailing list, doodle, chat) to schedule and organize node installations. This can be sometimes frustrating as it might be difficult to get an overview and track the user activities.
 
-We believe that the development a Web platform targeted to the specific purpose of coordinating and planning node building could benefit all community networks over the World. The platform should:
+**The development of a Web platform to coordinate and plan node building would be very useful for all community networks all over the World!**
 
+The platform should:
 * allow the future node owner to create a description of the node installation environment (location on the map, survey pictures, links) and a target number of volunteers to help
 * allow to choose a common date, time and place between the node installation participants for the node installation
 * allow interaction (e.g. comments) between node installation participants
