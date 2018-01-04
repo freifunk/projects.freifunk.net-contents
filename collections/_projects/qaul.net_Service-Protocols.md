@@ -11,7 +11,7 @@ issues:
   - "https://github.com/qaul/qaul.net/issues/209"
 markdown: qaul.net_Service-Protocols.md
 mentors:
-  - math
+  - MathJud
 name: "Integrate Service Protocol"
 requirements:
   - "Analyzing and coding"
