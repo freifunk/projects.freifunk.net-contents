@@ -11,7 +11,7 @@ issues:
   - "https://github.com/qaul/qaul.net/issues/210"
 markdown: qaul.net_DNS-Service.md
 mentors:
-  - math
+  - MathJud
 name: "Implement .qaul DNS Service"
 requirements:
   - "Analyzing and coding"
