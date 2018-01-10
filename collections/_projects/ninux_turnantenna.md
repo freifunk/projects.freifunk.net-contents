@@ -9,7 +9,7 @@ initiatives:
   - GSoC
 markdown: ninux_turnantenna.md
 mentors:
-  - Leonardo Maccari
+  - leonardomaccari
 name: "Re-write the Turnantenna code"
 requirements:
   - "Python Programming"
