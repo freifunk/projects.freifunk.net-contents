@@ -1,33 +1,6 @@
 # projects.freifunk.net-contents
 contents to be displayed at our projects-page
 
-## Local testing
-
-### Simple way
-
-* push your file to github and look it up there. github renders your markdown file and should display a table above the main text. If that's the case it is valid, most probably :)
-
-### Advanced way
-
-* install ruby and gem as prerequsites
-* install jekyll: ```sudo gem install jekyll bundler```
-* checkout projects software ```git checkout https://github.com/freifunk/projects```
-* delete contents of the original software
-  * ```rm projects/_projects```
-  * ```rm projects/_faq```
-* copy our own contents
-  * ```cp collections/_projects projects/_projects```
-  * ```cp collections/_faq projects/_faq```
-* run jekyll and bundler
-  * ```cd projects```
-  * ```bundle install```
-  * ```bundle exec jekyll serve```
-
-## Deployment in Production
-
-* install ansible
-* run ```ansible-playbook deploy_coala-projects.yml -i path-to-your-inventory --limit "the server to deploy to" --extra-vars "install_user=your-install-user install_path=/path/to/install"```
-
 ## Defining Projects
 
 Mentors and admins can define projects in markdown using the following structure and save it in the collections/_projects folder with a relevant filename:
@@ -88,3 +61,30 @@ Question: <Write the question here>
 
 Answer
 ```
+
+## Local testing
+
+### Simple way
+
+* push your file to github and look it up there. github renders your markdown file and should display a table above the main text. If that's the case it is valid, most probably :)
+
+### Advanced way
+
+* install ruby and gem as prerequsites
+* install jekyll: ```sudo gem install jekyll bundler```
+* checkout projects software ```git checkout https://github.com/freifunk/projects```
+* delete contents of the original software
+  * ```rm projects/_projects```
+  * ```rm projects/_faq```
+* copy our own contents
+  * ```cp collections/_projects projects/_projects```
+  * ```cp collections/_faq projects/_faq```
+* run jekyll and bundler
+  * ```cd projects```
+  * ```bundle install```
+  * ```bundle exec jekyll serve```
+
+## Deployment in Production
+
+* install ansible
+* run ```ansible-playbook deploy_coala-projects.yml -i path-to-your-inventory --limit "the server to deploy to" --extra-vars "install_user=your-install-user install_path=/path/to/install"```
