@@ -22,7 +22,7 @@ tags:
 ---
 The goal of the turnAntenna project is to realize the software needed to drive the "Turnantenna", a device that is able to automatically point an antenna in a specific direction.
 
-The turnantenna is made of a step-by-step engine which moves  a bracket on which the antenna is placed. Below the bracket there is a box with contains an Orange Pi board that drives the engine. The OPi is powered over ethernet, and contains a python code that is used to move the engine, and re-point the antenna. 
+The turnantenna is made of a step-by-step engine which moves  a bracket on which the antenna is placed. Below the bracket there is a box containing an Orange Pi board that drives the engine. The OPi is powered over ethernet, and contains a python code that is used to move the engine, and re-point the antenna. 
 The basic idea is that in some cases you want to re-point an antenna mounted in a position that is not easily accessible, or you may want to re-point an antenna temporarily to do a test, and move it back. In this cases the turnantenna is useful because it can move the anenna without the need of physical access (i.e. the antenna is mounted on a 6 meters pole and you don't want to bring it down and up again). 
 
 The current code of the Turnantenna is made of two parts, a Python code that controls the engine, and a php page that is the user interface. Both projects are currently on github: [driver](https://github.com/ninux-fi/punter_node_driver), [Web Interface](https://github.com/ninux-fi/punter_node_web). Both projects need a rewrite, the driver is a collection of code from various sources and it needs to be improved, refactored and tests need to be added. The website needs a better shape.
