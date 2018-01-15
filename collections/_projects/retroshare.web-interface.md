@@ -10,7 +10,8 @@ initiatives:
 issues:
 markdown: retroshare.web-interface.md
 mentors:
-  - Cyril Soler, G10Hack
+  - csoler
+  - G10Hack
 name: "Improve existing Retroshare web interface"
 requirements:
   - "Analyzing and coding"
