@@ -10,7 +10,7 @@ initiatives:
 issues:
 markdown: retroshare.wall-plugin.md
 mentors:
-  - Cyril Soler
+  - csoler
 name: "Create a social network plugin based on GXS"
 requirements:
   - "Analyzing and coding"
