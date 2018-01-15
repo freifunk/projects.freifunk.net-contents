@@ -10,7 +10,7 @@ initiatives:
 issues:
 markdown: retroshare.voip.md
 mentors:
-  - Cyril Soler
+  - csoler
 name: "Improve Retroshare VOIP"
 requirements:
   - "Analyzing and coding"
