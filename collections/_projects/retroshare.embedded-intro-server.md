@@ -10,7 +10,7 @@ initiatives:
 issues:
 markdown: retroshare.embedded-friend-server.md
 mentors:
-  - Cyril Soler
+  - csoler
 name: "Implement an friend server inside Tor-only Retroshare"
 requirements:
   - "Analyzing and coding"
