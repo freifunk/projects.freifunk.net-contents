@@ -10,7 +10,8 @@ initiatives:
 issues:
 markdown: retroshare.markup-language.md
 mentors:
-  - Cyril Soler, G10H4ck
+  - csoler
+  - G10H4ck
 name: "Implement a Markup Language Text editor/display for Retroshare"
 requirements:
   - "Analyzing and coding"
