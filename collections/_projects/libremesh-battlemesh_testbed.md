@@ -27,18 +27,18 @@ tags:
 ---
 
 
-In latest years to collect relevant data at Wireless Battle Mesh has been an
-hard challenge and in some cases a failure. A relevant part of WBM community
-agrees that not having a well tested firmware for the testbed has been a major
+In recent years, collecting relevant data at Wireless Battle Mesh has been a
+challenge and in some cases a failure. A relevant part of the WBM community
+agrees that the lack of a well tested firmware for the testbed has been a major
 hindrance to successful testing and data collection.
-Past tentatives of creating a testbed based on WiBed have failed too, apparently
+Past attempts of creating a testbed based on WiBed have failed too, apparently
 due to lack of maintenance.
 While LibreMesh hasn't been designed with testbeds in mind, thanks to its high
-modularity and flexibility troughs years it has gained most of the needed
-features for a testbed firmware, as a plus it is actively maintained by a
-conspicuous and heterogeneous developers community from different community
-networks in the world that participate to WBM, all propitious factors for a
-satisfactory GSoC project development.
+modularity and flexibility over many years it has gained most of the needed
+features for testbed firmware. As a plus it is actively maintained by a
+conspicuous and heterogeneous developer community from different community
+networks in the world that participate in WBM, all propitious factors for a
+satisfactory GSoC development project.
 
 
 #### Milestones
@@ -57,8 +57,8 @@ satisfactory GSoC project development.
 ##### PREPARATION/BONDING
 
 * Get a general understanding of community networks
-* Get a general understanding of Wirelss Battle Mesh
+* Get a general understanding of Wireless Battle Mesh
 * Briefly study LibreMesh networking architecture
 * Clearly understand LibreMesh software architecture
-* Discuss possible development with the mentors
-* Buy some low price compatible devices to operate the test network
+* Discuss possible development with mentors
+* Buy low price compatible devices to operate the test network

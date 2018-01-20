@@ -43,7 +43,7 @@ code a tiny LiMe module that take care of tunnel configuration.
 
 * Create a working testbed network with LibreMesh
 * Propose a reasonable architectural solution to address this issue
-* Code the proposed solution after discussing with LibreMesh developers
+* Code the proposed solution after discussion with LibreMesh developers
 * Test and document the code
 
 
@@ -52,5 +52,5 @@ code a tiny LiMe module that take care of tunnel configuration.
 * Get a general understanding of community networks
 * Clearly understand LibreMesh networking architecture
 * Clearly understand LibreMesh software architecture
-* Discuss possible development with the mentors
-* Buy some low price compatible devices to operate the test network
+* Discuss possible development with mentors
+* Buy low price compatible devices to operate the test network
