@@ -12,7 +12,7 @@ markdown: libremesh-netJSON-agent.md
 mentors:
   - G10h4ck
   - NicoEchaniz
-  - Nemesis
+  - nemesisdesign
 name: "LibreMesh NetJSON Agent"
 requirements:
   - "Lua programming language"
