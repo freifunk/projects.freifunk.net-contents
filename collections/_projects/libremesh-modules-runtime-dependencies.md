@@ -11,7 +11,7 @@ issues:
 markdown: libremesh-modules-runtime-dependencies.md
 mentors:
   - G10h4ck
-  - Gui
+  - altergui
 name: "lime-system: Modules Runtime Dependencies"
 requirements:
   - "Lua programming language"
