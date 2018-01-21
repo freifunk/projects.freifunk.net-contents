@@ -11,8 +11,8 @@ issues:
 markdown: libremesh-battlemesh_testbed.md
 mentors:
   - G10h4ck
-  - Gui
-  - Pau
+  - altergui
+  - p4u
 name: "LibreMesh based Battle Mesh testbed"
 requirements:
   - "Lua programming language"
