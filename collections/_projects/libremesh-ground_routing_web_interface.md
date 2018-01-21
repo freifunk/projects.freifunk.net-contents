@@ -11,7 +11,7 @@ issues:
 markdown: libremesh-ground_routing_web_interface.md
 mentors:
   - G10h4ck
-  - Pau
+  - p4u
 name: "LibreMesh ground routing user friendly interface"
 requirements:
   - "User Interface Design"
