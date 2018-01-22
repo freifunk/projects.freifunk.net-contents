@@ -2,7 +2,7 @@
 name: "nodewatcher: Node data matrix comparison module for nodewatcher"
 desc: "The idea is to create a module which provides a page/matrix for node data comparison."
 requirements:
- - "Python/Django, HTML/JavaScript experience.
+ - "Python/Django, HTML/JavaScript experience."
 difficulty: "medium"
 mentors:
  - mitar
