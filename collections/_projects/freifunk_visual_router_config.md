@@ -11,7 +11,7 @@ initiatives:
 issues:
 markdown: freifunk_visual_router_config.md
 mentors:
-  - Dr. Thomas Hühn
+  - thuehn
 requirements:
   - "Analyzing, design and coding"
   - "Luci"
