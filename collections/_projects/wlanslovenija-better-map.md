@@ -5,7 +5,7 @@ requirements:
  - "Python/Django, leaflet.js, and html experience."
 difficulty: "medium"
 mentors:
- - valent
+ - valentt
 initiatives:
  - GSoC
 tags:
