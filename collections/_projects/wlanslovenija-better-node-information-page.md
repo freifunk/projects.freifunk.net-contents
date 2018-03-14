@@ -5,7 +5,7 @@ requirements:
  - "Python/Django and javascript experience."
 difficulty: "medium"
 mentors:
- - valent
+ - valentt
 initiatives:
  - GSoC
 tags:
