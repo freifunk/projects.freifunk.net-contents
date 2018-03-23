@@ -19,6 +19,7 @@ requirements:
   - "Networking"
   - "Hardware for testing"
 tags:
+  - GSoC2018
   - UIX
   - Networking
   - OpenWrt

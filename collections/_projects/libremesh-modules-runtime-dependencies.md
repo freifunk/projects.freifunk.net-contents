@@ -19,6 +19,7 @@ requirements:
   - "Hardware for testing"
 tags:
   - Architecture
+  - GSoC2018
   - OpenWrt
   - LibreMesh
 ---

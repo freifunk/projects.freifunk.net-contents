@@ -24,6 +24,7 @@ tags:
   - LibreMesh
   - LibreNet6
   - Tinc
+  - GSoC2018
   - IPv6
 ---
 

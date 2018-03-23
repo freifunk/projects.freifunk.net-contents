@@ -9,7 +9,11 @@ mentors:
 initiatives:
  - GSoC
 tags:
- - mptcp, ksb, socks, openwrt
+ - GSoC2018
+ - mptcp
+ - ksb
+ - socks
+ - openwrt
 ---
 
 [Kernel Socks Bouncer](http://ksb.sourceforge.net/) is a Linux Kernel 2.6.x Loadable Kernel Module that that redirects tcp connection (to user-defined target hosts) through socks 4/5 chains. ksb26 is subdivided into a lkm [Linux Loadable Kernel Module] and a userspace manager. ksb26 lkm intercepts and redirects tcp connections. ksb26manager keeps updated socks list and loads target hosts list via character device.

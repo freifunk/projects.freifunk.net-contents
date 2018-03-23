@@ -24,6 +24,7 @@ requirements:
   - "Java"
   - "Math"
 tags:
+  - GSoC2018
   - geolocation
   - json
   - api

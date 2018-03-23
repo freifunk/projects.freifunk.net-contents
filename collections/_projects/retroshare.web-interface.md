@@ -19,6 +19,7 @@ requirements:
   - "CSS"
   - "JSon/Qt"
 tags:
+  - GSoC2018
   - Web interface
 ---
 

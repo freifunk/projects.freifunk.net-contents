@@ -9,6 +9,7 @@ mentors:
 initiatives:
  - GSoC
 tags:
+ - GSoC2018
  - nodewatcher
 collaborating_projects:
  - wlanslovenija

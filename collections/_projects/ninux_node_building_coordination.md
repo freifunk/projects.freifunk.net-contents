@@ -17,6 +17,7 @@ requirements:
   - "Python, django"
 tags:
   - web
+  - GSoC2018
   - communities
   - nodes
   - django

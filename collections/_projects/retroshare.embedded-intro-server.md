@@ -18,6 +18,7 @@ requirements:
   - "Tor hidden services"
   - "http protocol"
 tags:
+  - GSoC2018
   - C++
   - Networking
 ---

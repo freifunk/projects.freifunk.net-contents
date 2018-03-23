@@ -13,6 +13,7 @@ initiatives:
   - GSoC
 tags:
   - json
+  - GSoC2018
   - web
   - mesh
   - bmx6

@@ -19,6 +19,7 @@ requirements:
   - "refactoring, migrations"
   - "javascript, python, php, wordpress plugins"
 tags:
+  - GSoC2018
   - json
   - web
   - map

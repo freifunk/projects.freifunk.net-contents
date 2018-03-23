@@ -16,6 +16,7 @@ requirements:
   - "Driver programming"
   - "Python, possibly PHP"
 tags:
+  - GSoC2018
   - engine
   - antenna
   - Orange Pi

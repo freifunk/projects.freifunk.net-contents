@@ -23,6 +23,7 @@ requirements:
 tags:
   - Architecture
   - OpenWrt
+  - GSoC2018
   - LibreMesh
   - NetJSON
   - JSON

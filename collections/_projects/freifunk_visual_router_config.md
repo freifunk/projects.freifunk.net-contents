@@ -19,6 +19,7 @@ requirements:
   - "OpenWrt build system & per target package make management"
   - "Java or Javascript"
 tags:
+  - GSoC2018
   - Luci 
   - web interface
   - openwrt

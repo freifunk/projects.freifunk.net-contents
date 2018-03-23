@@ -18,6 +18,7 @@ requirements:
   - "C++"
   - "Qt"
 tags:
+  - GSoC2018
   - C++
   - Qt
 ---

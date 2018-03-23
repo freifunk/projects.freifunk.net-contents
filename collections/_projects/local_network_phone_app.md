@@ -18,6 +18,7 @@ requirements:
   - "IPv6"
 tags:
   - app
+  - GSoC2018
   - android
   - qr-code
   - webrtc
