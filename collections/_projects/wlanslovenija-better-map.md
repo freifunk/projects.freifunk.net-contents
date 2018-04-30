@@ -4,6 +4,7 @@ desc: "Implement better map for easier monitoring of nodes in nodewathcher."
 requirements:
  - "Python/Django, leaflet.js, and html experience."
 difficulty: "medium"
+status: in_progress
 mentors:
  - valentt
 initiatives:

@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Extend or develop an App for Android to allow phone calls to local contacts"
 developers_involved: [ ]
 difficulty: high
-status: open
+status: in_progress
 initiatives:
   - GSoC
 issues:

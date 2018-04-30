@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Develop librenet6 integration into LibreMesh"
 developers_involved: []
 difficulty: medium
-status: open
+status: in_progress
 initiatives:
   - GSoC
 issues:

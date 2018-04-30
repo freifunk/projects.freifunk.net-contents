@@ -5,7 +5,7 @@ name: "VRConfig"
 desc: "Create a Visual Router Configuration for OpenWrt"
 developers_involved: []
 difficulty: hard
-status: open
+status: in_progress
 initiatives:
   - GSoC
 issues:

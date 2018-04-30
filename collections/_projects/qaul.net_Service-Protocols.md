@@ -4,9 +4,9 @@ collaborating_projects:
 desc: "Integrate qaul.net Service Protocols in an network independent manner"
 developers_involved: []
 difficulty: high
-status: open
 initiatives:
   - GSoC
+status: in_progress
 issues:
   - "https://github.com/qaul/qaul.net/issues/209"
 markdown: qaul.net_Service-Protocols.md

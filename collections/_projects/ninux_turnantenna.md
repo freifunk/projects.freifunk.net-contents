@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Re-write the code for the Turnantenna project"
 developers_involved: []
 difficulty: medium
-status: open
+status: in_progress
 initiatives:
   - GSoC
 markdown: ninux_turnantenna.md
