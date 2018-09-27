@@ -6,7 +6,7 @@ developers_involved: []
 difficulty: high
 initiatives:
   - GSoC
-status: in_progress
+status: completed
 issues:
   - "https://github.com/qaul/qaul.net/issues/209"
 markdown: qaul.net_Service-Protocols.md

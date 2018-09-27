@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Improve existing Retroshare web interface"
 developers_involved: []
 difficulty: easy
-status: in_progress
+status: completed
 initiatives:
   - GSoC
 issues:

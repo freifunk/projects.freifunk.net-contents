@@ -4,7 +4,7 @@ desc: "Port the Kernel Socks Bouncer (KSB) from Linux kernel 2.6 to 4.X"
 requirements:
  - "networking experience, C"
 difficulty: "medium"
-status: in_progress
+status: completed
 mentors:
  - zoobab
 initiatives:

@@ -8,7 +8,7 @@ developers_involved:
   - "Jan-Tarek Butt"
   - "Казанцев Егор"
 difficulty: medium
-status: in_progress
+status: completed
 initiatives:
   - GSoC
 issues:

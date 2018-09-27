@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "User friendly interface for LibreMesh ground routing module"
 developers_involved: [ gmarcos87 ]
 difficulty: medium
-status: in_progress
+status: completed
 initiatives:
   - GSoC
 issues:

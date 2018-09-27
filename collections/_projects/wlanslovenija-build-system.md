@@ -3,7 +3,7 @@ name: "nodewatcher: Build system rework and package upstreaming"
 desc: "Rework and simplification of firmware-core build system and package upstreaming"
 requirements:
  - "Understanding of OpenWrt build system, Docker and general Linux build tools"
-status: in_progress
+status: completed
 difficulty: "medium"
 mentors:
  - mitar
