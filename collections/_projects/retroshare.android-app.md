@@ -17,7 +17,7 @@ requirements:
   - "C++ / QML"
   - "Android"
 tags:
-  - GSoC2018
+  - GSoC2019
   - C++
 ---
 
