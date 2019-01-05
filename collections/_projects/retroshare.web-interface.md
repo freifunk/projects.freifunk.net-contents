@@ -11,7 +11,7 @@ issues:
 markdown: retroshare.web-interface.md
 mentors:
   - csoler
-  - G10Hack
+  - G10H4ck
 name: "RetroShare port web interface to JSON API"
 requirements:
   - "Web Development"

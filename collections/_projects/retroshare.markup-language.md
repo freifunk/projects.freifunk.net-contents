@@ -1,7 +1,7 @@
 ---
 collaborating_projects:
   - retroshare
-desc: "Implement a Markup Language Text editor/display for Retroshare"
+desc: "Retroshare Implement a Markup Language Text editor/display"
 developers_involved: []
 difficulty: medium
 status: open
@@ -12,13 +12,13 @@ markdown: retroshare.markup-language.md
 mentors:
   - csoler
   - G10H4ck
-name: "Implement a Markup Language Text editor/display for Retroshare"
+name: "Retroshare Implement a Markup Language Text editor/display"
 requirements:
   - "Analyzing and coding"
   - "C++"
   - "Qt"
 tags:
-  - GSoC2018
+  - GSoC2019
   - C++
   - Qt
 ---

@@ -1,7 +1,7 @@
 ---
 collaborating_projects:
   - retroshare
-desc: "Improve Retroshare Android App"
+desc: "RetroShare Improve Android App"
 developers_involved: []
 difficulty: medium
 status: open
@@ -11,11 +11,12 @@ issues:
 markdown: retroshare.android-app.md
 mentors:
   - 
-name: "Improve Retroshare Android App"
+name: "RetroShare Improve Android App"
 requirements:
   - "Analyzing and coding"
-  - "C++ / QML"
+  - "QML"
   - "Android"
+  - "Reading C++"
 tags:
   - GSoC2019
   - C++
@@ -24,15 +25,16 @@ tags:
 Retroshare already has an android app that has the function of create a simple chat 
 app using GXS tunnels. 
 
-Unfortunately, the application is in a early stage and can have lots of 
-improvements, from the UI, chat features or Android integration, trying to make it more modern and 
-user friendly. And maybe use more modern libraries as [Kirigami](https://www.kde.org/products/kirigami/).
+The application is in a early stage and can have lots of improvements, from the
+UI, chat features, porting to the new JSON API or Android integration, and to
+make it more modern and user friendly.
+And maybe use more modern libraries as [Kirigami](https://www.kde.org/products/kirigami/).
 
 #### Milestones
 
 * Implement better UI
 * Improve key exchange
-* Implement new chat features based on API capabilities
+* Implement new chat features based on JSON API capabilities
 * Improve Android integration (as data usage and more)
 
 ##### PREPARATION/BONDING
