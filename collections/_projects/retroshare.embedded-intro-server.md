@@ -1,7 +1,7 @@
 ---
 collaborating_projects:
   - retroshare
-desc: "Create an embedded friend server inside Tor-only version of Retroshare"
+desc: "RetroShare Create an embedded Tor-only friend server"
 developers_involved: []
 difficulty: medium
 status: open
@@ -11,14 +11,15 @@ issues:
 markdown: retroshare.embedded-friend-server.md
 mentors:
   - csoler
-name: "Embedded Tor Retroshare friend server"
+  - G10H4ck
+name: "RetroShare Create an embedded Tor-only friend server"
 requirements:
   - "Analyzing and coding"
   - "C++"
   - "Tor hidden services"
   - "http protocol"
 tags:
-  - GSoC2018
+  - GSoC2019
   - C++
   - Networking
 ---

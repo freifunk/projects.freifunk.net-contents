@@ -1,7 +1,7 @@
 ---
 collaborating_projects:
   - retroshare
-desc: "Create a Wall/Blog system based on GXS in Retroshare"
+desc: "RetroShare Create a Social/Wall/Blog system based on GXS"
 developers_involved: []
 difficulty: medium
 status: open
@@ -11,7 +11,8 @@ issues:
 markdown: retroshare.wall-plugin.md
 mentors:
   - csoler
-name: "Create a social network plugin based on GXS"
+  - G10H4ck
+name: "RetroShare Create a Social/Wall/Blog system based on GXS"
 requirements:
   - "Analyzing and coding"
   - "C++"
@@ -19,6 +20,7 @@ requirements:
 tags:
   - C++
   - Decentralized social network
+  - GSoC2019
 ---
 
 Retroshare contains a generic distributed database system (called GXS) which allows to share data between nodes, 

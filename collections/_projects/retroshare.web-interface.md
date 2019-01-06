@@ -1,36 +1,35 @@
 ---
 collaborating_projects:
   - retroshare
-desc: "Improve existing Retroshare web interface"
+desc: "RetroShare port web interface to JSON API"
 developers_involved: []
 difficulty: easy
-status: completed
+status: open
 initiatives:
   - GSoC
 issues:
 markdown: retroshare.web-interface.md
 mentors:
   - csoler
-  - G10Hack
-name: "Improve existing Retroshare web interface"
+  - G10H4ck
+name: "RetroShare port web interface to JSON API"
 requirements:
-  - "Analyzing and coding"
-  - "C++"
-  - "CSS"
-  - "JSon/Qt"
+  - "Web Development"
+  - "JSON"
+  - "Capability to read and understand C++"
 tags:
-  - GSoC2018
+  - GSoC2019
   - Web interface
 ---
 
-The software already has a preliminary web interface, but it covers only the
-very basics of the software interactions, and does not benefit from the nice
-graphical look it should have. This project is probably the easiest of all,
-since the software already implements a partial json API to join the software
-internals and the html requests from the browser, but it still represent a lot
-of work as the software currently offers a lot of GUI handles in its Qt version
-that would need to find an equivalent functionality in the web interface
-version.
+The software already has a web interface, but it doesn't look nice and covers
+only the very basics of the software interactions, also it is still based on the
+deprecated `libresapi` while it should use the new JSON API developed during
+2018.
+This project is probably the easiest of all related to RetroShare, most of the
+work is web design, while a bit of C++ undestanding is required to read the API
+headers, it is not needed to be a C++ master to understand how to use the JSON
+API.
 
 #### Milestones
 
@@ -41,7 +40,7 @@ version.
 ##### PREPARATION/BONDING
 
 * get familiar with the Retroshare network and the existing premature web interface
-* understand how the current JSon frame work works with Retroshare
+* understand how RetroShare JSON API works
 * discuss roadmap with the developers
 
 
