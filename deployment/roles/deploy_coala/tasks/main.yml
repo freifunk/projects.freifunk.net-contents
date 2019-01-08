@@ -28,3 +28,10 @@
 
 - name: build jekyll site
   command: bundle exec jekyll build chdir="{{ install_path}}/"
+
+- name: change owner of files
+  file:
+    path: ~freifunk/projects.freifunk.net
+    state: directory
+    owner: freifunk
+    recurse: yes

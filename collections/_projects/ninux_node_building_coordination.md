@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Implement a Web platform to coordinate wireless community network nodes deployment"
 developers_involved: []
 difficulty: medium
-status: open
+status: suspended
 initiatives:
   - GSoC
 markdown: ninux_node_building_coordination.md
@@ -17,6 +17,7 @@ requirements:
   - "Python, django"
 tags:
   - web
+  - GSoC2018
   - communities
   - nodes
   - django

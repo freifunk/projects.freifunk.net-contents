@@ -21,6 +21,7 @@ requirements:
   - "EmberJS, javascript, CSS, HTML"
 tags:
   - GUI
+  - GSoC2018
   - EmberJS
   - MessagePack/JSON
   - Javascript

@@ -1,7 +1,7 @@
 ---
 collaborating_projects:
   - retroshare
-desc: "Improve Retroshare VOIP"
+desc: "RetroShare Improve VOIP"
 developers_involved: []
 difficulty: medium
 status: open
@@ -10,18 +10,24 @@ initiatives:
 issues:
 markdown: retroshare.voip.md
 mentors:
-  - Cyril Soler
-name: "Improve Retroshare VOIP"
+  - csoler
+name: "RetroShare Improve VOIP"
 requirements:
   - "Analyzing and coding"
   - "C++"
   - "Video compression"
 tags:
+  - GSoC2019
   - C++
 ---
 
-Retroshare already offers the possibility to talk using Voice/Video over IP, but only as a toy system. It currently needs a skilled developer to integrate a proper cross-platform video codec that would be capable of frame-rate auto-adjustment and be robust to network delays. This is a challenging project that needs a good understanding of how existing VoIP works and interacts with the network layer, as well as
-a technical understanding of how video compression works in general.
+Retroshare already offers the possibility to talk using Voice/Video over IP, but
+only as a toy system. It currently needs a skilled developer to integrate a
+proper cross-platform video codec that would be capable of frame-rate
+auto-adjustment and be robust to network delays. This is a challenging project
+that needs a good understanding of how existing VoIP works and interacts with
+the network layer, as well as a technical understanding of how video compression
+works in general.
 
 #### Milestones
 

@@ -1,7 +1,7 @@
 ---
 collaborating_projects:
   - retroshare
-desc: "Implement a Markup Language Text editor/display for Retroshare"
+desc: "Retroshare Implement a Markup Language Text editor/display"
 developers_involved: []
 difficulty: medium
 status: open
@@ -10,13 +10,15 @@ initiatives:
 issues:
 markdown: retroshare.markup-language.md
 mentors:
-  - Cyril Soler, G10H4ck
-name: "Implement a Markup Language Text editor/display for Retroshare"
+  - csoler
+  - G10H4ck
+name: "Retroshare Implement a Markup Language Text editor/display"
 requirements:
   - "Analyzing and coding"
   - "C++"
   - "Qt"
 tags:
+  - GSoC2019
   - C++
   - Qt
 ---

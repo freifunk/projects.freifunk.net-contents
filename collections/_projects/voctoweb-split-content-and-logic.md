@@ -22,6 +22,7 @@ requirements:
   - "refactoring, migrations"
   - "ruby, html, javascript"
 tags:
+  - GSoC2018
   - json
   - web
   - voctoweb

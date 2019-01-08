@@ -8,7 +8,7 @@ developers_involved:
   - "Jan-Tarek Butt"
   - "Казанцев Егор"
 difficulty: medium
-status: open
+status: completed
 initiatives:
   - GSoC
 issues:
@@ -24,6 +24,7 @@ requirements:
   - "Java"
   - "Math"
 tags:
+  - GSoC2018
   - geolocation
   - json
   - api

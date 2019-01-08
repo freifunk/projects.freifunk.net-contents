@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Extend or develop an App for Android to allow phone calls to local contacts"
 developers_involved: [ ]
 difficulty: high
-status: open
+status: completed
 initiatives:
   - GSoC
 issues:
@@ -18,6 +18,7 @@ requirements:
   - "IPv6"
 tags:
   - app
+  - GSoC2018
   - android
   - qr-code
   - webrtc

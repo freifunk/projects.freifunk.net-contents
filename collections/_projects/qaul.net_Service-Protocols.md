@@ -4,9 +4,9 @@ collaborating_projects:
 desc: "Integrate qaul.net Service Protocols in an network independent manner"
 developers_involved: []
 difficulty: high
-status: open
 initiatives:
   - GSoC
+status: completed
 issues:
   - "https://github.com/qaul/qaul.net/issues/209"
 markdown: qaul.net_Service-Protocols.md
@@ -19,6 +19,7 @@ requirements:
   - "C"
   - "Real-Live testing of implementation"
 tags:
+  - GSoC2018
   - C
   - NetworkAnalyzation
 ---

@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Re-write the code for the Turnantenna project"
 developers_involved: []
 difficulty: medium
-status: open
+status: completed
 initiatives:
   - GSoC
 markdown: ninux_turnantenna.md
@@ -16,6 +16,7 @@ requirements:
   - "Driver programming"
   - "Python, possibly PHP"
 tags:
+  - GSoC2018
   - engine
   - antenna
   - Orange Pi

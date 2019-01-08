@@ -20,6 +20,7 @@ requirements:
   - "http protocol"
 tags:
   - C
+  - GSoC2018
   - DNS
   - Networking
 ---

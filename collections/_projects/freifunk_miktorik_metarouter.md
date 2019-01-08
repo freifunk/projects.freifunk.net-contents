@@ -17,6 +17,7 @@ requirements:
   - "identify components that must be changed"
   - "refactoring, migrations"
 tags:
+  - GSoC2018
   - c
   - firmware
 ---
