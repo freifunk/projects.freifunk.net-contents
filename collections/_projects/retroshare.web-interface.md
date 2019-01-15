@@ -16,7 +16,7 @@ name: "RetroShare port web interface to JSON API"
 requirements:
   - "JSON / Mithril"
   - "CSS"
-  - A bit of "C++", but not strictly necessary
+  - "A bit of C++, but not strictly necessary"
 tags:
   - GSoC2019
   - Web interface
