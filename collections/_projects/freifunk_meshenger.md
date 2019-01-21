@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Extend the Local Phone App to allow phone calls over the Internet"
 developers_involved: [ ]
 difficulty: medium
-status: in_progress
+status: open
 initiatives:
   - GSoC
 issues:
