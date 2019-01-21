@@ -8,6 +8,7 @@ status: in_progress
 initiatives:
   - GSoC
 issues:
+  - layout problems with smaller screens
 markdown: meshenger.md
 mentors:
   - mwarning 
@@ -42,7 +43,7 @@ While the project was a success, some useful features and polishing is missing. 
   * This is probably more of a find and document task, as there are existing open source solutions.
 * Allow text messaging.
 * Polishing of the current code.
-* Your points..
+* Adaptation to known android development patterns (different bitmaps for different resolutions, ...).
 
 ##### PREPARATION/BONDING
 
