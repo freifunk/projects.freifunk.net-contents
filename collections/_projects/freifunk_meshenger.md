@@ -24,7 +24,7 @@ tags:
   - webrtc
 ---
 
-This is a follow up project of last years [Local Phone App](https://projects.freifunk.net/#/projects?project=local_phone_app&lang=en). The current state of the App is available on (F-Droid)[https://f-droid.org/packages/d.d.meshenger/]. The projects aim was to provide a usable Android App that allows local video/audio communication on local networks without any intermediate servers or presence of the Internet.
+This is a follow up project of last years [Local Phone App](https://projects.freifunk.net/#/projects?project=local_phone_app&lang=en). The current state of the App is available on [F-Droid](https://f-droid.org/packages/d.d.meshenger/). The projects aim was to provide a usable Android App that allows local video/audio communication on local networks without any intermediate servers or presence of the Internet.
 
 While the project was a success, some useful features and polishing is missing. Here is a list of desired feature suggestions:
 
@@ -38,12 +38,12 @@ While the project was a success, some useful features and polishing is missing. 
 #### Milestones
 
 * Allow contacs with target hostname (e.g. mydomain.com) and WebRTC signaling servers.
-* Allow calls over the Internet with optional STUN/TURN servers.
+* Allow calls over the Internet with STUN/TURN servers.
 * Allow an easy setup of own signaling servers.
   * This is probably more of a find and document task, as there are existing open source solutions.
 * Allow text messaging.
 * Polishing of the current code.
-* Adaptation to known android development patterns (different bitmaps for different resolutions, ...).
+* Adaptation to known Android development patterns (different bitmaps for different resolutions, ...).
 
 ##### PREPARATION/BONDING
 
