@@ -22,19 +22,19 @@ maintained in parallel.
 
 #### Milestones
 
-##### GSOC 2017 COMMUNITY BONDING
+##### GSOC 2019 COMMUNITY BONDING
 
-* Survey existing gateway implementaitions
+* Survey existing gateway implementations
 * Define minimal packageset
 * Check how to interoperate with existing infrastructure
 
-##### GSOC 2017 MIDTERM
+##### GSOC 2019 MIDTERM
 
 * Bootable image
 * Firewall/routing concept
 
 
-##### GSOC 2017 FINAL
+##### GSOC 2019 FINAL
 
 * Running gateway, production ready
 * Documentaion!
