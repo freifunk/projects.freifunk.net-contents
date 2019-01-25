@@ -16,7 +16,7 @@ initiatives:
 tags:
   - wireguard
   - crypto
-  - GSoC2018
+  - GSoC2019
   - web
   - mesh
   - bmx6
