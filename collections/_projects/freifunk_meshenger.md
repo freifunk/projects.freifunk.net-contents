@@ -35,13 +35,15 @@ While the project was a success, some useful features and polishing is missing. 
 - App polishing/bugfixing. For example, fix app for new Anroid versions and fix situations when a call gets interrupted because the screen turns off.
 - Show own Camera feed in a small window during video calls.
 
+This is just a list of suggestions and possible approaches. The main aim is to make the app more usable for mainstream usage.
+
 #### Milestones
 
-* Allow contacs with target hostname (e.g. mydomain.com) and WebRTC signaling servers.
-* Allow calls over the Internet with STUN/TURN servers.
+* Allow contacs with target hostname (e.g. mydomain.com) and enable STUN/TURN for those contacts.
+  * This will allow making calls of the Internet.
 * Allow an easy setup of own signaling servers.
   * This is probably more of a find and document task, as there are existing open source solutions.
-* Allow text messaging.
+  * An adaption of to common signaling formats might be a good idea here.
 * Polishing of the current code.
 * Adaptation to known Android development patterns (different bitmaps for different resolutions, ...).
 
