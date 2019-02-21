@@ -17,7 +17,7 @@ markdown: videoodyssee-refactoring.md
 mentors:
   - andibraeu
   - christian-draeger
-name: "videoodyssee: renew the whole system"
+name: "videoodyssee: system refactoring"
 requirements:
   - "Analyzing code and systems"
   - "evaluate solutions"
