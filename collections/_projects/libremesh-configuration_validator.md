@@ -11,7 +11,7 @@ issues:
 markdown: libremesh-configuration_validator.md
 mentors:
   - G10h4ck
-  - NicoEchaniz
+  - nicoechaniz
 name: "lime-system: Configuration Validator"
 requirements:
   - "Lua programming language"

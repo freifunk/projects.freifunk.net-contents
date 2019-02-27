@@ -11,7 +11,7 @@ issues:
 markdown: libremesh-netJSON-agent.md
 mentors:
   - G10h4ck
-  - NicoEchaniz
+  - nicoechaniz
   - nemesisdesign
 name: "LibreMesh NetJSON Agent"
 requirements:
@@ -23,7 +23,6 @@ requirements:
 tags:
   - Architecture
   - OpenWrt
-  - GSoC2018
   - LibreMesh
   - NetJSON
   - JSON
