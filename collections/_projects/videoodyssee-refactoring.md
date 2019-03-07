@@ -67,3 +67,17 @@ There are already some ideas for improvements:
 * find a way to update voctoweb from official sources and keep our own design and resources
 * add schedule.xml support to uploader. Schedule.xml is a file exported by talk management software like frab or pretalx and already contains all important information about the video of the talks.
 * potential rerwite of uploader and pipeline software, if it is too complicated to add features or changes on the existing tools.
+
+## Milestones
+
+### Before applications
+
+Get in touch with us to talk about potential projects we can derive from this idea. You're also invited to check out the software projects and try to get them running.
+
+### Community bonding
+
+Use the bonding period to see the existing projects. Talk to us to learn how it works, how the workflow is and how to make changes. During this period we will be able to identify things to work on. This can result in tasks to improve existing software or we find out that it is more effective to create something new.
+
+### Coding period
+
+During this period we'd like to work in an agile mode and use a Scrum or Kanban or something in between to organize the workflow. If you have questions on this, please don't hesitate to ask.
