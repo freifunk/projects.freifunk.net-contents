@@ -10,7 +10,7 @@ initiatives:
 issues:
 markdown: retroshare.openwrt-pkg.md
 mentors:
-  - amuza
+  - amuuza
 name: "RetroShare OpenWRT package"
 requirements:
   - "Analyzing and coding"
