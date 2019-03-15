@@ -33,27 +33,34 @@ There are a few projects already with slightly different aims/problems:
  - similar to the gluon version
  - maps the entire OpenWrt image list with the help of a currated list of matchers that needs to be curated.
 
-The current problem is that no project is suitable for OpenWrt right now. The project should aim for minimal/no manual updates in case of a new OpenWrt release.
+The current problem is that no project is suitable for openwrt.org right now. The main problem is the source of the information. A external database quickly gets old. The information from the wiki is hard to extract, incomplete and inflated. Therefore, the most reasonable solution seems to be to add meta data to the OpenWrt database. The idea is to create a JSON file as part of the OpenWrt build.
 
-Tasks:
- - Collect image information
-   - ideal would be to create the desired JSON files as part of the openwrt build system (proposals are available)
-   - Fallback approach: Scrape information from OpenWrt sources and/or the website/wiki
- - create a website:
-   - Display device manufacturer / model name / hardware version / OpenWrt release / link to correct images
-   - Display a help for how to apply the image depending on its type (factory/sysupgrade image, rootfs/kernel image)
-   - Select model/images by typing in part of the device model name
+The project falls into two parts:
 
-These tasks require communication with the OpenWrt community for everything that adds changes to OpenWrt/openwrt.org.
+1. Create web interface:
+  - Data comes from a JSON file
+  - Display device manufacturer / model name / hardware version / OpenWrt release / link to correct images
+  - Display a help for how to apply the image depending on its type (factory/sysupgrade image, rootfs/kernel image)
+  - Select model/images by typing in part of the device model name
+2. Extend OpenWrt build system:
+  - Add metadata
+  - Output JSON file
+
+These tasks requires communication with the OpenWrt community for everything that adds changes to OpenWrt/openwrt.org.
+Task 1. will probaby be 1/3 of the work, task 2. will consume about 2/3 of the project time.
+
+A good preparation would be to try to build OpenWrt. The [OpenWrt Wiki](https://openwrt.org/docs/start) is a good start.
 
 #### Milestones
 
-* Identifiy the different approaches to get the image file information
-* Make that information available in a desired format (e.g. JSON)
-* Create a website that could be integrated on openwrt.org to guide users
+* Understand the current web interfaces to salvage them if useful
+* Understand the basics the OpenWrt build system
+* Speak with the OpenWrt community to decide on the metadata that OpenWrt should output
+* Create a web interface that could be integrated on openwrt.org to guide users
 
 ##### PREPARATION/BONDING
 
-- Web development (html/js/css)
-- Basic Knowledge of OpenWrt (should have compiled an image once before)
+- Communication with the OpenWrt community
+- Basic knowledge of web development (html/js/css)
+- Medium knowledge of the OpenWrt system (compile and use OpenWrt)
 - Basic Makefile knowledge
