@@ -27,7 +27,7 @@ There are a few projects already with slightly different aims/problems:
 
 - [Chef](https://github.com/libremesh/chef)
   - builds images rather then offering images
-- [Gluon Firmware Selector](https://github.com/tecff/gluon-firmware-selector)
+- [Gluon Firmware Selector](https://github.com/freifunk-darmstadt/gluon-firmware-selector)
   - targets Gluon OpenWrt flavored images only (with a slightly different image names and only a few image names)
 - [Firmware Selector](https://github.com/freifunk-bielefeld/firmware-selector/)
  - similar to the gluon version
