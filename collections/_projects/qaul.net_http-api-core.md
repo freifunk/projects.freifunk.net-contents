@@ -1,4 +1,4 @@
---
+---
 collaborating_projects:
   - qaul.net
 desc: "Develop qaul.net HTTP API and core application logic."
