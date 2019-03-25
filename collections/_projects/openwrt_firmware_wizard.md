@@ -21,39 +21,44 @@ tags:
   - OpenWrt
 ---
 
+## Initial Firmware Retrieval
+
 [OpenWrt](openwrt.org) is a Linux distribution for off the shelf WiFi routers. People who want to update their device, often do not know what firmware file to download. So far the best option is the Wiki, but it is often loaded with too much information. The file download organizes all images files by architecture, but that is what most user usually do not know beforehand. A website that helps to select the correct image and how to apply them will help the adoption of OpenWrt by less tech savvy people.
 
-There are a few projects already with slightly different aims/problems:
+Required Features:
 
-- [Chef](https://github.com/libremesh/chef)
-  - builds images rather then offering images
-- [Gluon Firmware Selector](https://github.com/freifunk-darmstadt/gluon-firmware-selector)
-  - targets Gluon OpenWrt flavored images only (with a slightly different image names and only a few image names)
-- [Firmware Selector](https://github.com/freifunk-bielefeld/firmware-selector/)
- - similar to the gluon version
- - maps the entire OpenWrt image list with the help of a currated list of matchers that needs to be curated.
+* Display device manufacturer / model name / hardware version / OpenWrt release / link to correct images
+* Display a help for how to apply the image depending on its type (factory/sysupgrade image, rootfs/kernel image)
+* Select model/images by typing in part of the device model name
+* create images with different flavours (take functionality from Chef)
 
-The current problem is that no project is suitable for OpenWrt right now. The project should aim for minimal/no manual updates in case of a new OpenWrt release.
+The plan here is to rewrite [Chef](https://github.com/libremesh/chef) from scratch and allow it to use stock OpenWrt images with a static selection of packages (from the OpenWrt download [sever](https://downloads.openwrt.org/) and also talk with the ASU server backend to create images with a specific feature set as Chef does already.
 
-Tasks:
- - Collect image information
-   - ideal would be to create the desired JSON files as part of the openwrt build system (proposals are available)
-   - Fallback approach: Scrape information from OpenWrt sources and/or the website/wiki
- - create a website:
-   - Display device manufacturer / model name / hardware version / OpenWrt release / link to correct images
-   - Display a help for how to apply the image depending on its type (factory/sysupgrade image, rootfs/kernel image)
-   - Select model/images by typing in part of the device model name
+## Firmware Upgrades
 
-These tasks require communication with the OpenWrt community for everything that adds changes to OpenWrt/openwrt.org.
+Create a router web interface package for [LuCI](https://openwrt.org/docs/guide-user/luci/start) to check and apply new images. The [luci-app-attendedsysupgrade](https://github.com/openwrt/luci/tree/master/applications/luci-app-attendedsysupgrade) can be used as a template.
+
+Required Features:
+
+* Search for updates (downloads and checks json file)
+* Apply update (apply `sysupgrade /tmp/image_sysupgrade.bin`)
+
+## Create data
+
+To get the data for both projects, the OpenWrt build system needs to modified to create json files with the necessary meta data.
+There is an [example](https://git.openwrt.org/?p=openwrt/staging/lynxis.git;a=commitdiff;h=e2dd9c40cfea093aeb337fe66fe338f17543f118;hp=11590e7452bd61923c1339231df61fa0c539e025) avaialble on how to let the build system create json files.
 
 #### Milestones
 
-* Identifiy the different approaches to get the image file information
-* Make that information available in a desired format (e.g. JSON)
-* Create a website that could be integrated on openwrt.org to guide users
+* Work out a plan with the specifics of tasks.
+* Let the OpenWrt build system create JSON files. (GnuMake)
+* Create a small tool to collect all JSON files in one JSON file. (Python or Shell script)
+* Create a firmware wizard that could be integrated on openwrt.org to guide users. (HTML/JS)
+* Create a LuCI package to search for updates and apply them. (Lua)
 
 ##### PREPARATION/BONDING
 
-- Web development (html/js/css)
-- Basic Knowledge of OpenWrt (should have compiled an image once before)
-- Basic Makefile knowledge
+* Web development (html/js/css)
+* Basic Lua knowlege
+* Basic Knowledge of OpenWrt (should have compiled an image once before)
+* Basic Makefile knowledge
