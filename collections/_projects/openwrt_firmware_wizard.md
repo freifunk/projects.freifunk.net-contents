@@ -10,7 +10,8 @@ initiatives:
 issues:
 markdown: openwrt_firmware_wizard.md
 mentors:
-  - mwarning 
+  - mwarning
+  - aparcar
 name: "OpenWrt Firmware Wizard"
 requirements:
   - "Web design"

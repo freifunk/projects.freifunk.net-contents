@@ -57,8 +57,9 @@ a new tunnel plugin.
 [0]: https://github.com/bmx-routing/bmx7#bmx7-plugins
 [1]: https://github.com/bmx-routing/bmx7#descriptions
 [2]: https://github.com/bmx-routing/bmx7/tree/master/lib/bmx7_tun
+[3]: https://riot.im/app/#/room/#bmx-routing:matrix.org
 
 ##### PREPARATION/BONDING
 
 * Install a minimal bmx7 setup for testing
-* Join the [BMX7 matrix chat][2]
+* Join the [BMX7 matrix chat][3]
