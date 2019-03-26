@@ -7,7 +7,7 @@ difficulty: medium
 status: open
 initiatives:
   - GSoC
-issues:
+issues: https://github.com/qaul/qaul.net/issues/237
 markdown: qaul.net_user-network-simulator.md
 mentors:
   - spacekookie

@@ -7,7 +7,7 @@ difficulty: medium
 status: open
 initiatives:
   - GSoC
-issues:
+issues: https://github.com/qaul/qaul.net/issues/236
 markdown: qaul.net_http-api-core.md
 mentors:
   - spacekookie
