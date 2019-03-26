@@ -11,8 +11,8 @@ issues:
 markdown: qaul.net_http-api-core.md
 mentors:
   - spacekookie
-  - math
-  - lux
+  - mathjud
+  - luxferresum
 name: "qaul.net"
 requirements:
   - "Rust programming language"

@@ -11,7 +11,7 @@ issues:
 markdown: qaul.net_user-network-simulator.md
 mentors:
   - spacekookie
-  - math
+  - mathjud
 name: "qaul.net"
 requirements:
   - "Rust programming language"
