@@ -1,19 +1,19 @@
 ---
+name: "qaul.net HTTP API Core Application Logic"
+desc: "Develop qaul.net HTTP API and core application logic."
 collaborating_projects:
   - qaul.net
-desc: "Develop qaul.net HTTP API and core application logic."
 developers_involved: []
 difficulty: medium
 status: open
 initiatives:
   - GSoC
-issues:
+issues: https://github.com/qaul/qaul.net/issues/236
 markdown: qaul.net_http-api-core.md
 mentors:
   - spacekookie
   - mathjud
   - luxferresum
-name: "qaul.net"
 requirements:
   - "Rust programming language"
   - "Rough knowledge of json:api"
