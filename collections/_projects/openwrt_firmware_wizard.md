@@ -5,6 +5,7 @@ desc: "Create a wizard to select the correct firmware for your router for openwr
 developers_involved: [ ]
 difficulty: low
 status: open
+email: moritzwarning@web.de
 initiatives:
   - GSoC
 issues:
