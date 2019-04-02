@@ -1,7 +1,8 @@
 ---
+name: "qaul.net User Network Simulator"
+desc: "Develop qaul.net user network simulator."
 collaborating_projects:
   - qaul.net
-desc: "Develop qaul.net user network simulator."
 developers_involved: []
 difficulty: medium
 status: open
@@ -12,7 +13,6 @@ markdown: qaul.net_user-network-simulator.md
 mentors:
   - spacekookie
   - mathjud
-name: "qaul.net"
 requirements:
   - "Rust programming language"
   - "Software Architecture"
