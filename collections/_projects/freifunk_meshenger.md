@@ -5,6 +5,7 @@ desc: "Extend the Local Phone App to allow phone calls over the Internet"
 developers_involved: [ ]
 difficulty: medium
 status: open
+email: moritzwarning@web.de
 initiatives:
   - GSoC
 issues:
