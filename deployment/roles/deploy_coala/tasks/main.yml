@@ -24,9 +24,14 @@
     - partials
 
 - name: install jekyll deps
-  command: bundle install chdir="{{ install_path}}/"
+  become_user: freifunk
+  bundler:
+    state: latest
+    chdir: "{{ install_path}}/"
+
 
 - name: build jekyll site
+  become_user: freifunk
   command: bundle exec jekyll build chdir="{{ install_path}}/"
 
 - name: change owner of files

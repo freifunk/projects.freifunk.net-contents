@@ -1,6 +1,7 @@
 ---
 - name: checkout, customize and deploy coala-projects
   hosts: all
+  become_user: freifunk
   vars:
     install_user: "{{ install_user }}"
     install_path: "{{ install_path }}"
