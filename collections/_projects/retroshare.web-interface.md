@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "RetroShare port web interface to JSON API"
 developers_involved: []
 difficulty: easy
-status: open
+status: completed 
 initiatives:
   - GSoC
 issues:

@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "RetroShare Improve Android App"
 developers_involved: []
 difficulty: medium
-status: open
+status: completed
 initiatives:
   - GSoC
 issues:

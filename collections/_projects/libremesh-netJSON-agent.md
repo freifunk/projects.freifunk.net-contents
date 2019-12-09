@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Develop NetJSON monitoring agent for LibreMesh."
 developers_involved: []
 difficulty: medium
-status: open
+status: completed 
 initiatives:
   - GSoC
 issues:

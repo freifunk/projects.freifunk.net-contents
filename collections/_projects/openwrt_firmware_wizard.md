@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Create a wizard to select the correct firmware for your router for openwrt.org"
 developers_involved: [ ]
 difficulty: low
-status: open
+status: completed 
 email: moritzwarning@web.de
 initiatives:
   - GSoC

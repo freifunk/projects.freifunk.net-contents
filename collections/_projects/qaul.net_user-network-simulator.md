@@ -5,7 +5,7 @@ collaborating_projects:
   - qaul.net
 developers_involved: []
 difficulty: medium
-status: open
+status: completed 
 initiatives:
   - GSoC
 issues: https://github.com/qaul/qaul.net/issues/237
