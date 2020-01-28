@@ -11,7 +11,7 @@ issues:
 markdown: retroshare.markup-language.md
 mentors:
   - csoler
-  - G10H4ck
+  - G10h4ck
 name: "Retroshare Implement a Markup Language Text editor/display"
 requirements:
   - "Analyzing and coding"
