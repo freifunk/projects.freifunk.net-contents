@@ -11,7 +11,7 @@ issues:
 markdown: retroshare.embedded-friend-server.md
 mentors:
   - csoler
-  - G10H4ck
+  - G10h4ck
 name: "RetroShare Create an embedded Tor-only friend server"
 requirements:
   - "Analyzing and coding"

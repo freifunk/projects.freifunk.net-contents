@@ -11,7 +11,7 @@ issues:
 markdown: retroshare.wall-plugin.md
 mentors:
   - csoler
-  - G10H4ck
+  - G10h4ck
 name: "RetroShare Create a Social/Wall/Blog system based on GXS"
 requirements:
   - "Analyzing and coding"

@@ -11,7 +11,7 @@ issues:
 markdown: retroshare.community-commerce-plugin.md
 mentors:
   - csoler
-  - G10H4ck
+  - G10h4ck
 name: "RetroShare Create a local community commerce discovery plugin"
 requirements:
   - "Analyzing and coding"

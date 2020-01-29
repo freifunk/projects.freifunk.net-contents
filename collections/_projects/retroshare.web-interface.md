@@ -11,7 +11,7 @@ issues:
 markdown: retroshare.web-interface.md
 mentors:
   - csoler
-  - G10H4ck
+  - G10h4ck
 name: "RetroShare port web interface to JSON API"
 requirements:
   - "JSON / Mithril"
