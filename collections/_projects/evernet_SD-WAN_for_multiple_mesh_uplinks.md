@@ -11,7 +11,7 @@ initiatives:
 issues:
 markdown: evernet_SD-WAN_for_multiple_mesh_uplinks.md
 mentors:
-  - Thomas Hühn (Bluse)
+  - thuehn 
 requirements:
   - "ASH shell"
   - "Wireguard"
