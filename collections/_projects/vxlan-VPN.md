@@ -24,15 +24,15 @@ collaborating_projects:
  - "ffnw Freifunk Nordwest"
 ---
 
-Implementing a broker for VXLAN (Virtual Extensible LAN) to get a Layer2 highperformance VPN as an alternative to l2tp and fastd in Gluon. Optimize VXLAN-VPN-client and integrate ist into offical OpenWRT Repos.
+This project is about implementing a broker for VXLAN (Virtual Extensible LAN) to get a Layer 2 high performance VPN as an alternative to l2tp and fastd in Gluon. Furthermore the VXLAN-VPN-client should be optimized and integrated into the offical OpenWRT Repository. VXLAN-VPN-client code draft: (https://git.ffnw.de/sk/vxlan-vpn-client/-/tree/master)
 
 #### Milestones
 
-* Get familia with exsisting code and protocols amd start coding
-* Implement Broker and client, including debudding/testing
-* integrate into OpenWrt documentaion and gluon integration.
+* Get familiar with existing code and protocols and start coding
+* Implement broker and client, including debudding/testing
+* Integrate into OpenWrt documentaion and gluon integration.
 
 ##### Preparation 
 
-* Get familia with VXLAN
-* Get familia with gluon (https://gluon.readthedocs.io/en/latest/)
+* Get familiar with VXLAN
+* Get familiar with gluon (https://gluon.readthedocs.io/en/latest/)
