@@ -25,7 +25,7 @@ requirements:
   - "web design"
   - "kotlin, clojure, java, html, javascript, css"
 tags:
-  - GSoC2019
+  - GSoC2021
   - json
   - web
   - voctoweb
@@ -60,11 +60,11 @@ There are already some ideas for improvements:
 
 * add publishing workflow to prevent publishing of unwanted videos (e.g. send an email to a group of people to unlock the video)
 * refactoring the uploader project to use a message based frontend to backend system, e.g. by using Spring Webflux, React or Websockets
-* support multiple workers for video encoding, the pipeline software now only supports single jobs on the same server.
+* support multiple workers for video encoding, the pipeline software now only supports single jobs on the same server. We could move to container-based solutions.
 * support to update an event, e.g. if there's a new version of the video file or other meta data changed
 * elaborate lambdacd api to get feedback in uploader, so you can see progress in the workflow on the web portal.
 * update processing "pipeline scripts" to use newest versions of tools like ffmpeg, these are bash scripts calling ffmpeg and other tools
-* find a way to update voctoweb from official sources and keep our own design and resources
+* find a way to update voctoweb from official sources and keep our own design and resources, see [other idea](/#/projects?project=voctoweb:_split_contents_and_logic) for details.
 * add schedule.xml support to uploader. Schedule.xml is a file exported by talk management software like frab or pretalx and already contains all important information about the video of the talks.
 * potential rerwite of uploader and pipeline software, if it is too complicated to add features or changes on the existing tools.
 
@@ -81,3 +81,11 @@ Use the bonding period to see the existing projects. Talk to us to learn how it 
 ### Coding period
 
 During this period we'd like to work in an agile mode and use a Scrum or Kanban or something in between to organize the workflow. If you have questions on this, please don't hesitate to ask.
+
+Of course, milestones will heavily depend on the idea we want to implement together. But in general there should always be milestones like
+
+* build and present a first prototype for a new feature
+* extend the feature to fully cover the idea
+* provide tools to monitor the new feature
+* create end user documentation
+* deploy feature to production

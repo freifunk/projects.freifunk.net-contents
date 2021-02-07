@@ -1,7 +1,7 @@
 ---
 collaborating_projects:
   - freifunk
-desc: "Update the API Schema and our tools to json draft v5"
+desc: "Migrate the API Schema and our tools to latest json schema draft
 developers_involved: []
 difficulty: medium
 status: open
@@ -19,7 +19,7 @@ requirements:
   - "refactoring, migrations"
   - "javascript, python, php, wordpress plugins"
 tags:
-  - GSoC2019
+  - GSoC2021
   - json
   - web
   - map
@@ -29,7 +29,7 @@ tags:
 
 When we created the freifunk API some years ago, json schema v3 draft was en vogue. If you want to know more about the freifunk API, see https://api.freifunk.net
 
-Goal is to update our schema and the depending tools to the newer v5 draft. The schema version is already contained in our schema files. So tools that use these schema files can be backwards compatible until every community updated their api files. The api viewer contains a validation of api files: https://github.com/freifunk/viewer.api.freifunk.net/blob/master/render.py#L76 This should be used in the community collector, too.
+Goal is to update our schema and the depending tools to a current draft. The schema version is already contained in our schema files. So tools that use these schema files can be backwards compatible until every community updated their api files. The api viewer contains a validation of api files: https://github.com/freifunk/viewer.api.freifunk.net/blob/master/render.py#L76 This should be used in the community collector, too.
 
 Tools we created are:
 
@@ -44,9 +44,15 @@ Tools we created are:
 
 a lot of these tools use the summarized file produced by the community collector.
 
-#### Milestones
+## Milestones
 
-##### PREPARATION/BONDING
+### Preparation/Bonding
 
-- A clear understanding of JSON Schema
-- found the components that need to migrated or refactored
+* A clear understanding of JSON Schema
+* found the components that need to migrated or refactored
+
+### Coding Period
+
+* migrate existing schema definition to the current json schema draft
+* find a replacement for the jsonschema form generator
+* migrate tools using current json schema versions
