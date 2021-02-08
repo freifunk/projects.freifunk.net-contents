@@ -17,7 +17,7 @@ requirements:
   - "C++"
   - "Video compression"
 tags:
-  - GSoC2019
+  - GSoC2021
   - C++
 ---
 
