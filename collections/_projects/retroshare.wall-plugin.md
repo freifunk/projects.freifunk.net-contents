@@ -20,7 +20,7 @@ requirements:
 tags:
   - C++
   - Decentralized social network
-  - GSoC2019
+  - GSoC2021
 ---
 
 Retroshare contains a generic distributed database system (called GXS) which allows to share data between nodes, 
