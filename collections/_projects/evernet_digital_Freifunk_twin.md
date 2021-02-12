@@ -17,13 +17,12 @@ requirements:
   - "Linux namespaces and networking"
   - "Routing protocols (OLSR, Babel)"
   - "Scripting (Bash, Python, ect.)"
-  - 'Git with hooks and CI integration"
+  - "Git with hooks and CI integration"
 tags:
   - GSoC2021
   - Freifunk Evernet e.G.
   - Efficient sys-upgrade testing per target
   - Testing syntax migration changes
-  -
 ---
 
 `Evernet` is a community based rural mesh network based on Freifunk principles organizes as a cooperative since 2008.
@@ -34,7 +33,7 @@ within the house as access network. The Evernet core network is build on a dedic
 infrastructure (5GHz, 24GHz & 60GHz P2P links) between mesh nodes to increase the overall performance.
 Our Freifunk mesh is driven by a strong technical networking team. It is focused on a
 constant maintained network infrastructure and OpenWrt software state following current trunk.
-The maxim to keep the  mesh as fast as radio technologies evolves does involve a cyclic 
+The maxim to keep the  mesh as fast as radio technologies evolves does involve a cyclic
 upgrade and update process. Currently this includes just a smoke test with a set
 of targets placed on a desktop. We follow the pace of OpenWrt trunk development
 with the goal and commitment to help finding and fixing kernel/driver/config
@@ -60,7 +59,7 @@ in terms of automated system testing aka CI in a virtual copy of a real mesh.
 
 #### Milestones
 
-* Develop technical concept to transform the real mesh topology, connectivity and 
+* Develop technical concept to transform the real mesh topology, connectivity and
 hardware target state to a digital twin with VM hosts and network setup based on Qemu
   * What are the virtualisation challenges to tackle?
   * How to collect a representative connectivity graph from routing deamon?
