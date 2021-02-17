@@ -19,7 +19,7 @@ requirements:
   - "Tor hidden services"
   - "http protocol"
 tags:
-  - GSoC2019
+  - GSoC2021
   - C++
   - Networking
 ---
@@ -32,10 +32,10 @@ The goal of the project is to create an embedded friend-server inside the Tor on
 optionnaly allow the user to publish his/her certificate and retrieve certificates of existing users, in order to make friends,
 so as to bootstrap the software usage and increase its ease of adoption.
 
-The friend server will be a hierarchy of .onion websites, in which RS users using the friend server will also participante, 
+The friend server will be a hierarchy of .onion websites, in which RS users using the friend server will also participante,
 that runs pretty much like a key server: (1) a single .onion meta server (or a few of them)
-which address is hard-coded in the software (mostly like a DHT bootstrapping list) will list available friend servers, 
-signed by the maintainers of the project.  (2) Friend servers will be ran independently as .onion servers, 
+which address is hard-coded in the software (mostly like a DHT bootstrapping list) will list available friend servers,
+signed by the maintainers of the project.  (2) Friend servers will be ran independently as .onion servers,
 and accept/deliver keys to make friend to and (3) the GUI talks
 to friend servers, receives notifications for possible new friends and allows the user to connect to them.
 
@@ -56,4 +56,3 @@ This requires the following steps:
 * understand how RS certificates works
 * get a reasonnably good understanding of the structure of the project
 * discuss possible protocols and options with the developers. This is a very important part that may take a few weeks already.
-

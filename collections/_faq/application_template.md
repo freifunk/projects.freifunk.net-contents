@@ -11,24 +11,22 @@ About you
  * Name:
  * Email:
  * Blog:
- * Github/Bitbucket/Assembla etc. profile:
- * IRC Nick and Network:
+ * Github/Gitlab etc. profile:
  * Phone:
  * Country/Region:
- * Time Zone:
 
 Your biography
-----
+---
 
-Who are you? What's the focus of your studies? What makes you the best person to work on this project?
+Who are you? What's the focus of your course work and studies? What  qualifies you for the project idea?
 
  Experiences in Free Open Source Software
- --
+ ---
 
-What free and/or open source projects have you participated in? Please describe your contributions, provide us links to your features and commits.
+Please describe your contributions to free and open source projects.
 
 Your GSoC Project
-----
+---
 
 * Project Title:
 * Possible Mentor:
@@ -36,18 +34,17 @@ Your GSoC Project
 
   Benefits to community networks, who would gain from your project?
 
-  * Deliverables - It is very important to list quantifiable results here e.g.
-    * "Improve X modules in ways Y and Z."
-    * "Write 3 new man pages for the new interfaces."
-    * "Improve test coverage by writing X more unit/regression tests."
-    * "Improve performance in FOO by X%."
- * Project Details - more detailed description.
- * Project Schedule - Please provide a rough timetable with milestones every 2 weeks.
- * Availability - How many hours per week can you spend working on this? What other obligations do you have this summer?
+  * Milestones - It is important to list quantifiable results here, e.g.,
+    * List of features, trackable commits
+    * Proof of Concept of a specific feature
+    * Description of software tests and test coverage
+    * Performance prediction and proposal for the evaluation
+ * Project Details - more detailed description
+ * Project Schedule - provide a rough timetable with milestones for every 2 weeks
+ * Availability - How do you plan to spend the designated work hours during the summer?
 
 After GSoC
 -----
 
 Do you have plans to continue with your project within the freifunk community after GSoC?
-
 ```

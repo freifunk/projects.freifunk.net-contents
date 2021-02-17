@@ -3,7 +3,7 @@ collaborating_projects:
   - freifunk
 desc: "Migrate the API Schema and our tools to latest json schema draft"
 developers_involved: []
-difficulty: medium
+difficulty: easy
 status: open
 initiatives:
   - GSoC

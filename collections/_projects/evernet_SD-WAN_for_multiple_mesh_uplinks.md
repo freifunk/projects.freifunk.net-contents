@@ -17,7 +17,7 @@ requirements:
   - "Wireguard"
   - "LUA/JS"
 tags:
-  - GSoC2020
+  - GSoC2021
   - evernet-eg
   - SD-WAN
   - efficient loadbalancing
