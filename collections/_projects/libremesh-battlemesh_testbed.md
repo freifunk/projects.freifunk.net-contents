@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Develop BattleMesh testbed based on LibreMesh."
 developers_involved: []
 difficulty: medium
-status: open
+status: in_review
 initiatives:
   - GSoC
 issues:

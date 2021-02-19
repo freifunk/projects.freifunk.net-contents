@@ -23,7 +23,7 @@ tags:
 collaborating_projects:
   - libremesh
   - freifunk
-status: open
+status: in_review
 ---
 
 The routing protocol BMX7 offers a great way to extend it's functionally via

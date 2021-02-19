@@ -2,7 +2,7 @@
 name: "LiMe prometheus-lua-client for OpenWrt"
 desc: "LiMe prometheus-lua-client for OpenWrt"
 difficulty: medium
-status: open
+status: in_review
 initiatives:
   - GSoC
 issues:

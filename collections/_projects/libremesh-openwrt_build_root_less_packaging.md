@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "LiMe OpenWrt build-root-less package generator"
 developers_involved: []
 difficulty: medium
-status: open
+status: in_review
 initiatives:
   - GSoC
 issues:

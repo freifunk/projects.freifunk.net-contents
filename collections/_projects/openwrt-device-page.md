@@ -1,6 +1,7 @@
 ---
 name: "OpenWrt device page"
 desc: "Refresh overview page for OpenWrt supported devices"
+status: in_review
 requirements:
  - HTML
  - CSS
