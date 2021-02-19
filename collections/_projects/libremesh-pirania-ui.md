@@ -24,7 +24,7 @@ requirements:
   - "lua"
   - "OpenWRT"
 tags:
-  - GSoC
+  - GSoC2021
   - OpenWrt
   - LibreMesh
   - Networking
