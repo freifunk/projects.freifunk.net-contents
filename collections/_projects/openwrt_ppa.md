@@ -20,7 +20,7 @@ requirements:
   - "Makefiles"
   - "OpenWrt"
 tags:
-  - GSoC2019
+  - GSoC2021
   - OpenWrt
   - Kubernetes
   - Docker
@@ -28,7 +28,7 @@ tags:
   - Makefiles
 ---
 
-[OpenWrt](openwrt.org) is a Linux distribution for off the shelf WiFi routers. People who want to make and distribute their personal packages, often for development purposes. So far the best option is to build the whole firmware from zero, but very few people use the OpenWrt SDKs. The idea behind this project is to build a platform to build and host those personal package repositories, possibility integrated with GIT farms, so that the end users can add a repositiory URL to use those packages, modelled on what Ubuntu PPA (Personal Package Archive) has been provided for years.
+[OpenWrt](openwrt.org) is a Linux distribution for off the shelf WiFi routers. People who want to make and distribute their personal packages, often for development purposes. So far the best option is to build the whole firmware from zero, but very few people use the OpenWrt SDKs. The idea behind this project is to create a platform to build and host those personal package repositories, possibility integrated with GIT farms, so that the end users can add a repositiory URL to use those packages, modelled on what Ubuntu PPA (Personal Package Archive) has been provided for years.
 
 There is no such platform at the moment, packages are made via Pull Requests on a central repository, but that does not meet the requirements of a typical developer, which are:
 
@@ -57,4 +57,4 @@ These tasks require communication with the OpenWrt community, notably to find ou
 - Web development: html/js/css/python/django/flask or any other widely used web framework
 - Basic Knowledge of OpenWrt (should have compiled an image once before)
 - Basic Makefile knowledge
-- Basic Kubernetes knowdledge (buildah, kaniko, makisu, CRD, etc...)
+- Basic Kubernetes knowledge (podman, buildah, kaniko, makisu, CRD, etc...)
