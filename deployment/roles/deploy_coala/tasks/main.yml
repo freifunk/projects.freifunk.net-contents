@@ -12,6 +12,7 @@
   with_items:
     - _faq
     - _projects
+    - _reports
 
 - name: copy custom collections
   copy:
@@ -20,6 +21,7 @@
   with_items:
     - collections/_faq
     - collections/_projects
+    - collections/_reports
     - data
     - partials
 

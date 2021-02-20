@@ -4,10 +4,10 @@
     <div class="col m8 offset-m2">
       <h1 class="fine center">Hello there!</h1>
       <h4 class="light center">
-        We are the mentors for freifunk in GSoC 2019.
+        We are the mentors for  freifunk@GSoC 2021.
       </h4>
       <h4 class="light center">
-        Join our <a href="http://irc.freifunk.net" class="bear-link">IRC channel</a> -
+        Just drop a message on <a href="{{chat.gsoc.room}}" class="bear-link">Matrix</a> -
         we'd love to help you personally.
       </h4>
       <br> </div>
@@ -19,13 +19,16 @@
       <div class="parent-wrapper">
         <div class="parent">
           <div ng-repeat="member in gic.mentorsList" class="card child card-main sc">
-            <div class="empty"></div>
-            <!-- data-proofer-ignore as html-proofer doesn't recognise ng-src -->
-            <div class="data thumbnail center"> <img alt="{{member.github_handle}}" class="center dp" height="100" ng-src="{{ member.github_avatar_url }}" data-proofer-ignore>
-              <div class="name center">{{ member.name }}</div>
-              <div class="handle center"><a class="yellow-text text-darken-4" ng-href="https://github.com/{{member.github_handle}}">@{{ member.github_handle }}</a>
+            <a ng-href="https://github.com/{{member.github_handle}}">
+              <div class="empty"></div>
+              <!-- data-proofer-ignore as html-proofer doesn't recognise ng-src -->
+              <div class="data thumbnail center"> <img alt="{{member.github_handle}}" class="center dp" height="100" ng-src="{{ member.github_avatar_url }}" data-proofer-ignore>
+                <div class="name center">{{ member.name }}</div>
+                <div class="handle center yellow-text text-darken-4">
+                  @{{ member.github_handle }}
+                </div>
               </div>
-            </div>
+            </a>
           </div>
         </div>
       </div>
@@ -39,10 +42,10 @@
     <div class="col m8 offset-m2">
       <h1 class="fine center">Admins</h1>
       <h4 class="light center">
-        We are the admins for freifunk in GSoC 2018.
+        We are the admins for freifunk@GSoC 2021.
       </h4>
       <h4 class="light center">
-        Join our <a href="http://irc.freifunk.net" class="bear-link">IRC channel</a>
+        Just drop a message on <a href="{{chat.gsoc.room}}" class="bear-link">Matrix</a>
       </h4>
     </div>
   </div>
@@ -53,13 +56,16 @@
       <div class="parent-wrapper">
         <div class="parent">
           <div ng-repeat="member in gic.adminsList" class="card card-main child sc">
-            <div class="empty"></div>
-            <!-- data-proofer-ignore as html-proofer doesn't recognise ng-src -->
-            <div class="data thumbnail center"> <img alt="{{member.github_handle}}" class="center dp" height="100" ng-src="{{ member.github_avatar_url }}" data-proofer-ignore>
-              <div class="name center">{{ member.name }}</div>
-              <div class="handle center"><a class="yellow-text text-darken-4" ng-href="https://github.com/{{member.github_handle}}">@{{ member.github_handle }}</a>
+            <a ng-href="https://github.com/{{member.github_handle}}">
+              <div class="empty"></div>
+              <!-- data-proofer-ignore as html-proofer doesn't recognise ng-src -->
+              <div class="data thumbnail center"> <img alt="{{member.github_handle}}" class="center dp" height="100" ng-src="{{ member.github_avatar_url }}" data-proofer-ignore>
+                <div class="name center">{{ member.name }}</div>
+                <div class="handle center yellow-text text-darken-4">
+                  @{{ member.github_handle }}
+                </div>
               </div>
-            </div>
+            </a>
           </div>
         </div>
       </div>
