@@ -13,6 +13,7 @@ mentors:
  - simonkurka
 initiatives:
  - GSoC
+ - GSoC2021
  - ffnw
  - freifunk
 tags:
@@ -32,7 +33,7 @@ This project is about implementing a broker for VXLAN (Virtual Extensible LAN) t
 * Implement broker and client, including debudding/testing
 * Integrate into OpenWrt documentaion and gluon integration.
 
-##### Preparation 
+##### Preparation
 
 * Get familiar with VXLAN
 * Get familiar with gluon (https://gluon.readthedocs.io/en/latest/)

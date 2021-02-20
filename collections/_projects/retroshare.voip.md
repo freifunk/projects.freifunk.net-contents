@@ -7,6 +7,7 @@ difficulty: medium
 status: open
 initiatives:
   - GSoC
+  - GSoC2021
 issues:
 markdown: retroshare.voip.md
 mentors:
@@ -39,4 +40,3 @@ works in general.
 
 * get familiar with the Retroshare network and existing VOIP code
 * discuss possible options with the developers
-

@@ -5,8 +5,10 @@ desc: "Migrate the API Schema and our tools to latest json schema draft"
 developers_involved: []
 difficulty: easy
 status: open
+email: ab+gsoc2021@andi95.de
 initiatives:
   - GSoC
+  - GSoC2021
 issues:
   - "https://github.com/freifunk/api.freifunk.net/issues/145"
 markdown: freifunk_api_to_json_schema_v5.md

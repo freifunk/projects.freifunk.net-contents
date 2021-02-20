@@ -8,6 +8,7 @@ difficulty: medium
 status: open
 initiatives:
   - GSoC
+  - GSoC2021
 issues: https://git.qaul.org/qaul/qaul/-/issues/1
 markdown: qaul-basic-android-app.md
 mentors:

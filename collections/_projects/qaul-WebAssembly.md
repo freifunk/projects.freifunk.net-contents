@@ -9,6 +9,7 @@ difficulty: medium
 status: open
 initiatives:
   - GSoC
+  - GSoC2021
 issues: https://git.open-communication.net/qaul/qaul.net/-/issues/137
 markdown: qaul-WebAssembly.md
 mentors:
@@ -31,7 +32,7 @@ tags:
 
 **Create a progressive web app prototype for qaul.net**
 
-With WebAssembly one can load compiled code as a progressive web app into a web browser. 
+With WebAssembly one can load compiled code as a progressive web app into a web browser.
 New API's such as WebBluetooth can be used to interconnect with other devices directly from within the web browser.
 
 The scope of this project is to create a progressive web app prototype of qaul.net and to explore how far a progressive web app can replace native clients.
@@ -41,7 +42,7 @@ As qaul.net is written in the programming language rust which can be compiled to
 
 ## About qaul.net
 
-`qaul.net` is an ad-hoc wireless mesh networking app to communicate directly with other users in proximity without any Internet connectivity. 
+`qaul.net` is an ad-hoc wireless mesh networking app to communicate directly with other users in proximity without any Internet connectivity.
 qaul.net interconnects many operating systems and devices via Wifi, Bluetooth and local networks.
 The project started in 2011 and is currently rewritten in the programming language rust.
 

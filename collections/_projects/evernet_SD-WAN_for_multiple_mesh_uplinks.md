@@ -8,10 +8,11 @@ difficulty: medium
 status: open
 initiatives:
   - GSoC
+  - GSoC2021
 issues:
 markdown: evernet_SD-WAN_for_multiple_mesh_uplinks.md
 mentors:
-  - thuehn 
+  - thuehn
 requirements:
   - "ASH shell"
   - "Wireguard"

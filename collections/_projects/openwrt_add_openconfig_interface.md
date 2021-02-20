@@ -8,6 +8,7 @@ difficulty: high
 status: open
 initiatives:
   - GSoC
+  - GSoC2021
 issues:
 markdown: openwrt_add_openconfig_interface.md
 mentors:
@@ -25,14 +26,14 @@ tags:
 ---
 
 `OpenWrt` is a distribution for embedded devices such as WiFi router etc.
-The goal is to ease tasks such as network configuration and integration 
+The goal is to ease tasks such as network configuration and integration
 into heterogeneous environment with open networking hardware.
-`OpenConfig` is an interface for vendor-neutral, model-driven network 
+`OpenConfig` is an interface for vendor-neutral, model-driven network
 management and builts on top of YANG.
-The goal is to build an OpenConfig-based interface for OpenWrt network 
-devices such as WiFi access points or switches. 
+The goal is to build an OpenConfig-based interface for OpenWrt network
+devices such as WiFi access points or switches.
 A person working on this task would be responsible for the creation of an
-OpenConfig-based interface and to integrate it into the OpenWrt environment 
+OpenConfig-based interface and to integrate it into the OpenWrt environment
 including the integration with uci, ubus etc.
 Moreover, the project also aims to create a YANG model for some OpenWrt-based
 WiFi access points.

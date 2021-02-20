@@ -8,6 +8,7 @@ difficulty: sporty
 status: open
 initiatives:
   - GSoC
+  - GSoC2021
 issues:
 markdown: evernet_digital_Freifunk_twin.md
 mentors:

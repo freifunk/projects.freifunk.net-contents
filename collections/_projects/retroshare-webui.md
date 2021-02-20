@@ -12,6 +12,7 @@ difficulty: easy
 status: open
 initiatives:
   - GSoC
+  - GSoC2021
 mentors:
   - csoler
   - G10h4ck

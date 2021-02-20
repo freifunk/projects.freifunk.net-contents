@@ -7,6 +7,7 @@ difficulty: medium
 status: open
 initiatives:
   - GSoC
+  - GSoC2021
 issues:
 markdown: retroshare.embedded-friend-server.md
 mentors:

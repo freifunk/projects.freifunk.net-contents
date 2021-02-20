@@ -7,9 +7,10 @@ developers_involved:
   - christian-draeger
 difficulty: medium
 status: open
-email: ab+gsoc2018@andi95.de
+email: ab+gsoc2021@andi95.de
 initiatives:
   - GSoC
+  - GSoC2021
 issues:
   - "https://github.com/freifunk/videoodyssee.freifunk.net-ci/issues/6"
   - "https://github.com/freifunk/videoodyssee.freifunk.net-ci/issues/2"

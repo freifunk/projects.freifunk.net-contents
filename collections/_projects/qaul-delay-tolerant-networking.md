@@ -9,6 +9,7 @@ difficulty: medium
 status: open
 initiatives:
   - GSoC
+  - GSoC2021
 issues: https://git.open-communication.net/qaul/qaul.net/-/issues/138
 markdown: qaul-delay-tolerant-networking.md
 mentors:
@@ -30,7 +31,7 @@ tags:
 
 Apart from the classical MANET-Routing (Mobile Adhoc Network) for currently connected devices, a Delay Tolerant Network for not currently reachable devices shall be implemented. In small implementations it shall be played with different concepts of Delay Tolerant Routing.
 
-Delay Tolerant Routing means to send messages and network packages in a store and forward manner to other devices currently connected to the network, that have a higher probability to reach the receiver sooner then the sender or be closer to it. 
+Delay Tolerant Routing means to send messages and network packages in a store and forward manner to other devices currently connected to the network, that have a higher probability to reach the receiver sooner then the sender or be closer to it.
 
 There are several concepts for delay tolerant routing, such as routing by:
 
@@ -42,16 +43,16 @@ There are several concepts for delay tolerant routing, such as routing by:
 ## About qaul.net
 
 `qaul.net` is an ad-hoc wireless mesh networking app to communicate directly with
-other users in proximity without any Internet connectivity. 
-qaul.net interconnects many operating systems and devices via Wifi, Bluetooth and 
+other users in proximity without any Internet connectivity.
+qaul.net interconnects many operating systems and devices via Wifi, Bluetooth and
 local networks.
 The project started in 2011 and is currently rewritten in the programming language Rust.
 
 qaul.net routes everything in user space and creates an identity based routed overlay network
 over all kind of existing networks. The router is called RATMAN (Route and Transaction Manager).
-and is heavily inspired by BATMAN. 
+and is heavily inspired by BATMAN.
 
-The scope of this project is to extend the qaul.net routing protocol 
+The scope of this project is to extend the qaul.net routing protocol
 RATMAN with delay tolerant behaviour.
 
 qaul.net is developed by the 'Open Community Project Association', is funded by various foundations and is looking for students who want to participate in this GSoC, with the goal of becoming long-term contributors to the

@@ -8,6 +8,7 @@ difficulty: high
 status: open
 initiatives:
   - GSoC
+  - GSoC2021
 issues:
 markdown: openwrt_ebpf_support.md
 mentors:
@@ -24,12 +25,12 @@ tags:
 ---
 
 `OpenWrt` is a distribution for embedded devices such as WiFi router etc.
-The goal is to ease tasks such as network debugging, obtaining device statistics, 
-or performing performance measurements etc. `eBPF` and eXpress Data Path `XDP` 
+The goal is to ease tasks such as network debugging, obtaining device statistics,
+or performing performance measurements etc. `eBPF` and eXpress Data Path `XDP`
 allow to load functionality into the Linux kernel during runtime.
 A person working on this task would be responsible for the creation of a
 an easy to use toolchain and loader for OpenWrt-based routers. Moreover, the
-project also aims to perform a brief evaluation of eBPF and XDP on different system 
+project also aims to perform a brief evaluation of eBPF and XDP on different system
 architectures such as ARM, MIPS, x86, AMD64. Additionally, the project should
 also provide a brief set of examples for running on OpenWrt-based devices for
 purposes such as network debugging, traffic filtering, and network analytics.

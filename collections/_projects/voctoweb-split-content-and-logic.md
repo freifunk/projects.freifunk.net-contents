@@ -6,9 +6,10 @@ developers_involved:
   - andibraeu
 difficulty: medium
 status: open
-email: ab+gsoc2018@andi95.de
+email: ab+gsoc2021@andi95.de
 initiatives:
   - GSoC
+  - GSoC2021
 issues:
   - "https://github.com/freifunk/voctoweb/issues/2"
 markdown: voctoweb-split-content-and-logic.md
