@@ -7,7 +7,7 @@ requirements:
  - "Client server code optimasation"
  - "debugging + package building"
 difficulty: "medium"
-
+status: open
 mentors:
  - 2tata
  - simonkurka
