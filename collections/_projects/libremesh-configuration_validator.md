@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Develop configuration validation support for lime-system."
 developers_involved: []
 difficulty: medium
-status: in_review
+status: disabled
 initiatives:
   - GSoC
 issues:

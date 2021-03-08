@@ -13,7 +13,7 @@ initiatives:
   - GSoC2021
 issues:
 mentors:
-  - (potentially) SAn
+  - SAn
   - nicopace
 requirements:
   - "lua"

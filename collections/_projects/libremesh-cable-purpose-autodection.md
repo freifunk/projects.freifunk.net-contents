@@ -7,7 +7,7 @@ collaborating_projects:
   - altermundi
 developers_involved: []
 difficulty: medium
-status: in_review
+status: disabled
 initiatives:
   - GSoC
 issues:

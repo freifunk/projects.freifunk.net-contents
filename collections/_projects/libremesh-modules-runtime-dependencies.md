@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Develop runtime dependencies support for lime-system modules."
 developers_involved: []
 difficulty: medium
-status: in_review
+status: disabled
 initiatives:
   - GSoC
 issues:

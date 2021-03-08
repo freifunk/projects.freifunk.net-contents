@@ -13,8 +13,8 @@ initiatives:
   - GSoC2021
 issues:
 mentors:
-  - (potentially) SAn
-  - (potentially) gferrero
+  - SAn
+  - gferrero
   - nicopace
 requirements:
   - "Javascript"
