@@ -22,7 +22,7 @@ jobs:
           # Required, playbook filepath
           playbook: deploy_coala-projects.yml
           # Optional, directory where playbooks live
-          directory: ./deployments
+          directory: ./deployment
           # Optional, SSH private key
           key: ${{secrets.SSH_KEY}}
           # Optional, literal inventory file contents
