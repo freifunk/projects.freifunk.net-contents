@@ -1,0 +1,31 @@
+# build and deploy projects to the server
+name: Build and Deploy Project descriptions
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  - name: Run playbook
+    environment: production
+    uses: dawidd6/action-ansible-playbook@v2
+    with:
+      # Required, playbook filepath
+      playbook: deploy_coala-projects.yml
+      # Optional, directory where playbooks live
+      directory: ./deployments
+      # Optional, SSH private key
+      key: ${{secrets.SSH_KEY}}
+      # Optional, literal inventory file contents
+      inventory: |
+        [all]
+        ${{secrets.SSH_HOST}}
+      # Optional, SSH known hosts file content
+      known_hosts: .known_hosts
+      # Optional, additional flags to pass to ansible-playbook
+      options: |
+        --inventory .hosts
+        --limit ${{secrets.SSH_HOST}}
+        --extra-vars "install_user=${{secrets.TARGET_USER}} install_path=${{secrets.TARGET_PATH}}
