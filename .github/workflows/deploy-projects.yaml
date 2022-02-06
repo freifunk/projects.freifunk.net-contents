@@ -29,8 +29,7 @@ jobs:
           inventory: |
             [all]
             ${{secrets.SSH_HOST}}
-          # Optional, SSH known hosts file content
-          known_hosts: .known_hosts
+
           # Optional, additional flags to pass to ansible-playbook
           options: |
             --inventory .hosts
