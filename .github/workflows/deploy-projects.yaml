@@ -35,4 +35,5 @@ jobs:
             --inventory .ansible_inventory
             --user  ${{secrets.SSH_USER}}
             --limit ${{secrets.SSH_HOST}}
-            --extra-vars "install_user=${{secrets.TARGET_USER}} install_path=${{secrets.TARGET_PATH}}
+            --extra-vars "install_user=${{secrets.TARGET_USER}} install_path=${{secrets.TARGET_PATH}} ansible_user=${{secrets.SSH_USER}}"
+            --verbose
