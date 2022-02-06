@@ -33,5 +33,6 @@ jobs:
           # Optional, additional flags to pass to ansible-playbook
           options: |
             --inventory .ansible_inventory
+            --user  ${{SSH_USER}}
             --limit ${{secrets.SSH_HOST}}
             --extra-vars "install_user=${{secrets.TARGET_USER}} install_path=${{secrets.TARGET_PATH}}
