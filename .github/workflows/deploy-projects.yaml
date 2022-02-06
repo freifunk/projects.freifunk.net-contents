@@ -13,8 +13,8 @@ jobs:
     environment: production
     steps: 
       - run: |
-        pwd
-        ls -al
+          pwd
+          ls -al
       - name: Run playbook
         uses: dawidd6/action-ansible-playbook@v2
         with:
