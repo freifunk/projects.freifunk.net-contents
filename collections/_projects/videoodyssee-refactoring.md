@@ -6,11 +6,12 @@ developers_involved:
   - andibraeu
   - christian-draeger
 difficulty: medium
+size: half-size
 status: open
-email: ab+gsoc2021@andi95.de
+email: ab+gsoc2022@andi95.de
 initiatives:
   - GSoC
-  - GSoC2021
+  - GSoC2022
 issues:
   - "https://github.com/freifunk/videoodyssee.freifunk.net-ci/issues/6"
   - "https://github.com/freifunk/videoodyssee.freifunk.net-ci/issues/2"
@@ -26,7 +27,7 @@ requirements:
   - "web design"
   - "kotlin, clojure, java, html, javascript, css"
 tags:
-  - GSoC2021
+  - GSoC2022
   - json
   - web
   - voctoweb

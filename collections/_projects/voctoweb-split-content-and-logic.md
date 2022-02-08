@@ -5,11 +5,12 @@ desc: "Split the project to make it easier to use multiple instances"
 developers_involved:
   - andibraeu
 difficulty: medium
+size: full-size
 status: open
-email: ab+gsoc2021@andi95.de
+email: ab+gsoc2022@andi95.de
 initiatives:
   - GSoC
-  - GSoC2021
+  - GSoC2022
 issues:
   - "https://github.com/freifunk/voctoweb/issues/2"
 markdown: voctoweb-split-content-and-logic.md
@@ -23,7 +24,7 @@ requirements:
   - "refactoring, migrations"
   - "ruby, html, javascript"
 tags:
-  - GSoC2021
+  - GSoC2022
   - json
   - web
   - voctoweb

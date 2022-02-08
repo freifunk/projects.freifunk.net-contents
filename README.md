@@ -12,6 +12,7 @@ desc: "Write a one line Description of Project here."
 requirements:
  - "The applicant has to fulfill this to get started."
 difficulty: "low|medium|high"
+size: "half-time|full-time"
 issues:
  - "https://github.com/coala/coala/issues/####"
 mentors:
