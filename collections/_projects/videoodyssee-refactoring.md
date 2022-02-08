@@ -6,7 +6,7 @@ developers_involved:
   - andibraeu
   - christian-draeger
 difficulty: medium
-size: half-size
+size: half-time
 status: open
 email: ab+gsoc2022@andi95.de
 initiatives:

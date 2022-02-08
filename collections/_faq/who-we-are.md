@@ -7,6 +7,7 @@ These are the organizations under the umbrella:
 
 * [AlterMundi](https://altermundi.net/)
 * [guifi.net](http://guifi.net)
+* [irdest](https://irde.st)
 * [ninux.org](http://ninux.org/)
 * [libremesh](https://libremesh.org/)
 * [librerouter](https://librerouter.org/)

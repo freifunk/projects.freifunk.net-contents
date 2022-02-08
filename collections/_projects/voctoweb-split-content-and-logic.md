@@ -5,7 +5,7 @@ desc: "Split the project to make it easier to use multiple instances"
 developers_involved:
   - andibraeu
 difficulty: medium
-size: full-size
+size: full-time
 status: open
 email: ab+gsoc2022@andi95.de
 initiatives:
