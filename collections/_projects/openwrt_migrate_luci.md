@@ -35,6 +35,14 @@ With the old system all pages are rendered on the router delivering html to the 
 
 Data will be provided via rpcd and ubus in a JSON format. You probably have to write new rpcd services to provide data that was formerly used directly on the router. Services are usually written as ash script.
 
+#### Resources
+
+* LuCI [source code](https://github.com/openwrt/luci)
+* LuCI [documentation](https://github.com/openwrt/luci/wiki/Documentation)
+* client-side JavaScript API [documentation](https://openwrt.github.io/luci/jsapi/)
+* Freifunk [apps and modules](https://github.com/freifunk/openwrt-packages) for LuCI
+* [Another app](https://github.com/weimarnetz/packages/tree/brauhaus-19.07/utils/luci-app-weimarnetz) already migrated to js
+
 #### Milestones
 
 * Learn how the new LuCI client side API works
