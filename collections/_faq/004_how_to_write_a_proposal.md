@@ -1,5 +1,6 @@
 ---
 question: "How do I write a good proposal?"
+order: 4
 ---
 
 We have some notes you should keep in mind for your proposal:

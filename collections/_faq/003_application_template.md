@@ -1,5 +1,6 @@
 ---
 question: "Do you have an application template?"
+order: 3
 ---
 freifunk Application Template for GSoC
 ===============================
@@ -18,7 +19,7 @@ About you
 Your biography
 ---
 
-Who are you? What's the focus of your course work and studies? What  qualifies you for the project idea?
+Who are you? What's the focus of your recent work? What  qualifies you for the project idea?
 
  Experiences in Free Open Source Software
  ---
@@ -40,8 +41,9 @@ Your GSoC Project
     * Description of software tests and test coverage
     * Performance prediction and proposal for the evaluation
  * Project Details - more detailed description
+ * Project Size - choose to spend 175 hours or 350 hours.
  * Project Schedule - provide a rough timetable with milestones for every 2 weeks
- * Availability - How do you plan to spend the designated work hours during the summer?
+ * Availability - How do you plan to spend the designated work hours during the summer? Do you choose the standard 
 
 After GSoC
 -----
