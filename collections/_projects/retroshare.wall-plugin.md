@@ -7,7 +7,7 @@ difficulty: medium
 status: open
 initiatives:
   - GSoC
-  - GSoC2021
+  - GSoC2022
 issues:
 markdown: retroshare.wall-plugin.md
 mentors:
@@ -21,7 +21,7 @@ requirements:
 tags:
   - C++
   - Decentralized social network
-  - GSoC2021
+  - GSoC2022
 ---
 
 Retroshare contains a generic distributed database system (called GXS) which allows to share data between nodes,
@@ -35,6 +35,7 @@ network. Depending on the applicant's skills and motivation, such a plugin could
 services: twitter (distributed micro-blogging), blog (distributed blogging), Wall (Facebook-style information sharing).
 
 This is not an easy project, since GXS internals are hard to understand in the first place. But the devs are highly motivated to get it done.
+This is definitely a full-time project.
 
 #### Milestones
 
@@ -49,4 +50,5 @@ This is to be discussed with the developers.
 * get familiar with the Retroshare network
 * understand how GXS works. A white paper is available here: https://hal.inria.fr/hal-01617423
 * discuss possible options with the developers
+* we only recruit applicants who made relevants pull requests to the project before the selection period begins
 

@@ -39,6 +39,8 @@ parts in particular should be a priority:
 * configuration
 * channels
 
+Depending on how much work is scheduled this project stands for half-time or full time.
+
 
 #### Milestones
 
