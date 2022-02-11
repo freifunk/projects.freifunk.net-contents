@@ -19,12 +19,12 @@ About you
 Your biography
 ---
 
-Who are you? What's the focus of your recent work? What  qualifies you for the project idea?
+Who are you? What's the focus of your recent work? What qualifies you for the project idea?
 
  Experiences in Free Open Source Software
  ---
 
-Please describe your contributions to free and open source projects.
+Please describe your contributions to free and open-source projects.
 
 Your GSoC Project
 ---
