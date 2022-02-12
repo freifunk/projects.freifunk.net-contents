@@ -4,6 +4,7 @@ collaborating_projects:
 desc: "RetroShare Create a Social/Wall/Blog system based on GXS"
 developers_involved: []
 difficulty: medium
+size: full-time
 status: open
 initiatives:
   - GSoC
