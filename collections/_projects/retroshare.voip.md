@@ -4,10 +4,11 @@ collaborating_projects:
 desc: "RetroShare Improve VOIP"
 developers_involved: []
 difficulty: medium
+size: half-time
 status: open
 initiatives:
   - GSoC
-  - GSoC2021
+  - GSoC2022
 issues:
 markdown: retroshare.voip.md
 mentors:
@@ -18,7 +19,9 @@ requirements:
   - "C++"
   - "Video compression"
 tags:
-  - GSoC2021
+  - GSoC2022
+  - video compression
+  - video codecs
   - C++
 ---
 
@@ -30,6 +33,8 @@ that needs a good understanding of how existing VoIP works and interacts with
 the network layer, as well as a technical understanding of how video compression
 works in general.
 
+This project can be a half-time project for a sufficiently skilled developper.
+
 #### Milestones
 
 * find a suitable cross-plaform video codec
@@ -40,3 +45,4 @@ works in general.
 
 * get familiar with the Retroshare network and existing VOIP code
 * discuss possible options with the developers
+* we only consider recruiting applicants who made a few relevant pull requests to the project first. A good starting point would be to improve the current VOIP graphical user interface.
