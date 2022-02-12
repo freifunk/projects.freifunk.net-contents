@@ -4,6 +4,7 @@ collaborating_projects:
 desc: "RetroShare Improve VOIP"
 developers_involved: []
 difficulty: medium
+size: half-time
 status: open
 initiatives:
   - GSoC
