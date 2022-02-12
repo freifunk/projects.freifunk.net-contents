@@ -4,6 +4,7 @@ collaborating_projects:
 desc: "Finalise the Retoshare Web Interface"
 developers_involved: []
 difficulty: easy
+size: half-time
 status: open
 initiatives:
   - GSoC
