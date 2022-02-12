@@ -3,7 +3,6 @@ name: Freifunk Meshnet Protocol Evaluation
 desc: Develop a virtual testbed and test various mesh routing protocols
 maskdown: freifunk-meshnet-evaluation.md
 collaborating_projects:
-  - battlmesh
   - freifunk
 developers_involved: []
 difficulty: medium

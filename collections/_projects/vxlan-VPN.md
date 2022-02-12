@@ -21,8 +21,7 @@ tags:
  - Networking
  - VPN
 collaborating_projects:
- - "freifunk"
- - "ffnw Freifunk Nordwest"
+ - freifunk
 ---
 
 This project is about implementing a broker for VXLAN (Virtual Extensible LAN) to get a Layer 2 high performance VPN as an alternative to l2tp and fastd in Gluon. Furthermore the VXLAN-VPN-client should be optimized and integrated into the offical OpenWRT Repository. VXLAN-VPN-client code draft: (https://git.ffnw.de/sk/vxlan-vpn-client/-/tree/master)

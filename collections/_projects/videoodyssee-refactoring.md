@@ -1,7 +1,7 @@
 ---
 collaborating_projects:
   - freifunk
-desc: ""
+desc: "Rebuild a video upload system"
 developers_involved:
   - andibraeu
   - christian-draeger

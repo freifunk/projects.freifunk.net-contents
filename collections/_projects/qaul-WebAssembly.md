@@ -3,7 +3,6 @@ name: "qaul.net WebAssembly Prototype"
 desc: "Create a progressive web app prototype for qaul.net"
 collaborating_projects:
   - qaul.net
-  - qaul
 developers_involved: []
 difficulty: medium
 status: open

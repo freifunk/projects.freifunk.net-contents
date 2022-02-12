@@ -3,7 +3,6 @@ name: "qaul.net Delay Tolerant Routing"
 desc: "Develop a Delay Tolerant Routing Extension for RATMAN"
 collaborating_projects:
   - qaul.net
-  - qaul
 developers_involved: []
 difficulty: medium
 status: open
