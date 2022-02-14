@@ -1,7 +1,7 @@
 ---
 collaborating_projects:
   - retroshare
-desc: "Finalise the Retoshare Web Interface"
+desc: "Improve the existing Javascript Web Interface of the Retroshare project by adding the missing pages and functionalities"
 developers_involved: []
 difficulty: easy
 size: half-time
@@ -14,7 +14,7 @@ markdown: retroshare.embedded-friend-server.md
 mentors:
   - csoler
   - G10h4ck
-name: "RetroShare Create an embedded Tor-only friend server"
+name: "Complete the Retroshare Web Interface"
 requirements:
   - "Javascript"
   - "Web design skills"
