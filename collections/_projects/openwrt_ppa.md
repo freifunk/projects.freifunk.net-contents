@@ -1,6 +1,6 @@
 ---
 collaborating_projects:
-  - openwrt
+  - openwrt.org
 desc: "Extend the openwrt PPA, or Personal Package Archive"
 developers_involved: [ ]
 difficulty: medium
