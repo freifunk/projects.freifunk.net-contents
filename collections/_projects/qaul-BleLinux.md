@@ -6,9 +6,11 @@ collaborating_projects:
   - qaul
 developers_involved: []
 difficulty: medium
+size: full-time
 status: open
 initiatives:
   - GSoC
+  - GSoC2022
 issues: https://github.com/qaul/qaul.net/issues/314
 markdown: qaul-BleLinux.md
 mentors:
