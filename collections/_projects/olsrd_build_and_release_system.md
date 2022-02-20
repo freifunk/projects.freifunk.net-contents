@@ -17,7 +17,7 @@ mentors:
   - PolynomialDivision
   - andibraeu
 requirements:
-  - "c++"
+  - "C"
   - "Makefile"
   - "github actions"
   - "bash"
