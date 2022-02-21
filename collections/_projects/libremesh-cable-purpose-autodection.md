@@ -7,13 +7,13 @@ collaborating_projects:
   - altermundi
 developers_involved: []
 difficulty: medium
-status: disabled
+status: open
 initiatives:
   - GSoC
 issues:
 mentors:
-  - ayalaluquez
-  - nicoechaniz
+  - gferrero
+  - spiccinini
 requirements:
   - "Lua programming language"
   - "Networking Knowledge"
@@ -21,6 +21,7 @@ requirements:
   - "Hardware for testing"
 tags:
   - GSoC
+  - GSoC2022
   - OpenWrt
   - LibreMesh
   - Networking

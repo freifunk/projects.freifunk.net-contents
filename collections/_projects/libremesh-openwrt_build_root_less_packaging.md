@@ -4,21 +4,22 @@ collaborating_projects:
 desc: "LiMe OpenWrt build-root-less package generator"
 developers_involved: []
 difficulty: medium
-status: disabled
+status: open
 initiatives:
   - GSoC
 issues:
 markdown: libremesh-openwrt_build_root_less_packaging.md
 mentors:
-  - G10h4ck
-  - nicopace
+  - gferrero
+  - spiccinini
 name: "LiMe OpenWrt build-root-less package generator"
 requirements:
   - "Shell programming"
   - "Software Architecture"
   - "Software Packaging"
 tags:
-  - GSoC2019
+  - GSoC
+  - GSoC2022
   - Architecture
   - OpenWrt
   - LibreMesh
