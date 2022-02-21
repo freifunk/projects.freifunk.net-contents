@@ -7,6 +7,7 @@ collaborating_projects:
   - altermundi
 developers_involved: []
 difficulty: medium
+size: "full-time"
 status: open
 initiatives:
   - GSoC
