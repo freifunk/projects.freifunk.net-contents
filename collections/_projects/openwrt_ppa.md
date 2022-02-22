@@ -51,6 +51,7 @@ These tasks require communication with the OpenWrt community, notably to find ou
 #### Milestones
 
 * Document existing tools and strategies
+* Investigate the possibility to add support to Opensuse OpenBuildService (OBS), which already supports hosting packages for other distros
 * Make a first Proof-Of-Concept (POC), even without authentication, with a simple API inside Kubernetes (CRD)
 * Make a web GUI on top of that API
 
