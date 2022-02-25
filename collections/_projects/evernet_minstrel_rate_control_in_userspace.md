@@ -4,7 +4,7 @@ desc: "Implement Minstrel Rate Control in Python Userspace based on new mac80211
 collaborating_projects:
   - openwrt.org
 developers_involved:
-  - thomas.huehn
+  - thuehn
 difficulty: tough
 status: open
 initiatives:
@@ -14,7 +14,7 @@ issues:
 size: full-time
 markdown: evernet_minstrel_rate_control_in_userspace.md
 mentors:
-  - Thomas Huehn (github: thuehn)
+  - thuehn
 requirements:
   - "Python"
   - "Ansi C"
@@ -25,6 +25,7 @@ tags:
   - mac80211
   - Linux Kernel
 ---
+
 Efficient and fair resource allocation is necessary to deliver services to multiple wifi routers in a mesh network.
 The resource `data rate` (e.g. the set of supported MCS rates per STA) and it's dynamic allocation is facilitated by rate control algorithms, which operate at the mac80211 Linux subsystem.
 
