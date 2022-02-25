@@ -4,7 +4,7 @@ desc: "Pirania captive portal is a voucher-based captive portal used in LibreMes
 requirements:
  - "The applicant needs to have understanding of networking in mesh networks."
 difficulty: "high"
-size: "full-time"
+size: "350 hours"
 issues:
  - "https://github.com/libremesh/lime-packages/issues/261"
  - "https://github.com/libremesh/lime-packages/issues/244"

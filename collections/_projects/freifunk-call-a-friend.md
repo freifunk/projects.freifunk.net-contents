@@ -6,7 +6,7 @@ collaborating_projects:
   - freifunk
 developers_involved: []
 difficulty: high
-size: full-time
+size: "350 hours"
 status: open
 email: moritzwarning@web.de
 initiatives:

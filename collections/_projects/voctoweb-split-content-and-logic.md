@@ -5,7 +5,7 @@ desc: "Split the project to make it easier to use multiple instances"
 developers_involved:
   - andibraeu
 difficulty: medium
-size: full-time
+size: "350 hours"
 status: open
 email: ab+gsoc2022@andi95.de
 initiatives:
@@ -20,7 +20,6 @@ mentors:
 name: "VocToWeb: Split contents and logic"
 requirements:
   - "Analyzing and coding"
-  - ""
   - "refactoring, migrations"
   - "ruby, html, javascript"
 tags:

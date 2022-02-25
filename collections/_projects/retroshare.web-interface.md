@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Improve the existing Javascript Web Interface of the Retroshare project by adding the missing pages and functionalities"
 developers_involved: []
 difficulty: easy
-size: half-time
+size: "175 hours"
 status: open
 initiatives:
   - GSoC
@@ -40,7 +40,7 @@ parts in particular should be a priority:
 * configuration
 * channels
 
-Depending on how much work is scheduled this project stands for half-time or full time.
+Depending on how much work is scheduled this project stands for "175 hours" or full time.
 
 
 #### Milestones

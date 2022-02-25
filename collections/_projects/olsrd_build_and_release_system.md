@@ -11,7 +11,7 @@ initiatives:
   - GSoC
   - GSoC2022
 issues: []
-size: half-time
+size: "175 hours"
 markdown: olsrd_build_and_release_system.md
 mentors:
   - PolynomialDivision

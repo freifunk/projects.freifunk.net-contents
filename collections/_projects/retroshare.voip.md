@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "RetroShare Improve VOIP"
 developers_involved: []
 difficulty: medium
-size: half-time
+size: "175 hours"
 status: open
 initiatives:
   - GSoC
@@ -33,7 +33,7 @@ that needs a good understanding of how existing VoIP works and interacts with
 the network layer, as well as a technical understanding of how video compression
 works in general.
 
-This project can be a half-time project for a sufficiently skilled developper.
+This project can be a "175 hours" project for a sufficiently skilled developper.
 
 #### Milestones
 

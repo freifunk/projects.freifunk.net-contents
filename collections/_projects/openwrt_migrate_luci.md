@@ -13,7 +13,7 @@ initiatives:
   - GSoC2022
 issues:
   - https://github.com/openwrt/luci/issues/3378
-size: half-time
+size: "175 hours"
 markdown: openwrt_migrate_luci_javascript.md
 mentors:
   - andibraeu

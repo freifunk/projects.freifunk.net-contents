@@ -6,7 +6,7 @@ collaborating_projects:
   - qaul
 developers_involved: []
 difficulty: medium
-size: full-time
+size: "350 hours"
 status: open
 initiatives:
   - GSoC

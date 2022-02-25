@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Improve the functionality of the existing Retroshare Android client"
 developers_involved: []
 difficulty: medium
-size: half-time
+size: "175 hours"
 status: open
 initiatives:
   - GSoC
@@ -38,7 +38,7 @@ Most of the machinery that allows the Android client to talk to the running Retr
 well established, and the work in this project will consist into creating the missing functionalities
 described above.
 
-Depending on how much work is scheduled this project stands for half-time or full time.
+Depending on how much work is scheduled this project stands for half-time or full-time.
 
 #### Milestones
 
