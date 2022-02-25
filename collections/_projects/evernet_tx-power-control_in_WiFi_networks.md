@@ -11,7 +11,7 @@ initiatives:
   - GSoC
   - GSoC2022
 issues:
-size: full-time
+size: "350 hours"
 markdown: evernet_tx-power-control_in_WiFi_networks.md
 mentors:
   - thuehn
