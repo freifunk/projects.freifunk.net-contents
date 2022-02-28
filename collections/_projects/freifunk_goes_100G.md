@@ -13,6 +13,7 @@ initiatives:
 issues:
 size: "350 hours"
 markdown: freifunk_goes_100G.md
+mentors:
   - schuza
   - thuehn
 requirements:
