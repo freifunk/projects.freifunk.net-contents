@@ -5,7 +5,7 @@ requirements:
  - "Flutter knowledge"
  - "RetroShare basic knowledge and c++ will be apreciated"
 difficulty: "medium"
-size: "half-time"
+size: "175 hours"
 mentors:
  - nicoechaniz
  - G10h4ck
