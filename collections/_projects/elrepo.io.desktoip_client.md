@@ -4,7 +4,7 @@ desc: "Compile the actual flutter app into a desktop client using electron or na
 requirements:
  - "Flutter knowledge"
 difficulty: "medium"
-size: "half-time"
+size: "175 hours"
 mentors:
  - nicoechaniz
  - G10h4ck
