@@ -31,19 +31,19 @@ This space is for the main description. Use it wisely.
 
 #### Milestones
 
-##### GSOC 2017 COMMUNITY BONDING
+##### GSOC COMMUNITY BONDING
 
 * Conceptual work should be finished.
 * The student have a repository, know how to work with the community.
 * The applicant should know the community.
 
-##### GSOC 2017 MIDTERM
+##### GSOC MIDTERM
 
 * Everything listed here has to be reviewed and merged by midterm.
 * No exceptions to that. Changing the goals is possible together with mentors.
 * Yes, that includes tests and documentation.
 
-##### GSOC 2017 FINAL
+##### GSOC FINAL
 
 * Everything has to be reviewed and merged.
 * Including tests and docs, again.
