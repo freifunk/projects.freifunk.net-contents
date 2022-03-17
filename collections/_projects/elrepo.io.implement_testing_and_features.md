@@ -1,5 +1,5 @@
 ---
-name: "ElRepo.io implement features"
+name: "ElRepo.io implement features and unit testing"
 desc: "Implement various features to elRepo.io"
 requirements:
  - "Flutter knowledge"
@@ -26,6 +26,7 @@ The actual app is developed with Flutter and supports Android systems.
 
 There are a bunch of features to improve the user experience, here some of ones:
 
+- Unit testing
 - Post edition and versioning
 - Video and audio streaming
 - Implement better support for private content
