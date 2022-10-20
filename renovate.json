@@ -2,5 +2,21 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:base"
+  ],
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+      "automerge": true,
+      "automergeStrategy": "rebase",
+      "automergeSchedule": ["after 7am every weekday"],
+      "schedule": ["after 6am every weekday"]
+    },
+    {
+      "matchDepTypes": ["devDependencies"],
+      "automerge": true,
+      "automergeStrategy": "rebase",
+      "automergeSchedule": ["after 7am every weekday"],
+      "schedule": ["after 6am every weekday"]
+    }
   ]
 }
