@@ -8,7 +8,7 @@ size: "350 hours"
 status: open
 initiatives:
   - GSoC
-  - GSoC2022
+  - GSoC2023
 issues:
 markdown: retroshare.wall-plugin.md
 mentors:
@@ -22,7 +22,7 @@ requirements:
 tags:
   - C++
   - Decentralized social network
-  - GSoC2022
+  - GSoC2023
 ---
 
 Retroshare contains a generic distributed database system (called GXS) which allows to share data between nodes,
@@ -51,5 +51,5 @@ This is to be discussed with the developers.
 * get familiar with the Retroshare network
 * understand how GXS works. A white paper is available here: https://hal.inria.fr/hal-01617423
 * discuss possible options with the developers
-* we only recruit applicants who made relevants pull requests to the project before the selection period begins
+* we only recruit applicants who made relevants pull requests to the project before the selection period begins. Ask for the key to the dev Tor node (retroshare.project@gmail.com) and meet the devs in the dev forum/chat rooms.
 

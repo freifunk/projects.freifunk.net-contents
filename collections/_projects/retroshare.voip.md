@@ -19,7 +19,7 @@ requirements:
   - "C++"
   - "Video compression"
 tags:
-  - GSoC2022
+  - GSoC2023
   - video compression
   - video codecs
   - C++
@@ -45,4 +45,6 @@ This project can be a "175 hours" project for a sufficiently skilled developper.
 
 * get familiar with the Retroshare network and existing VOIP code
 * discuss possible options with the developers
-* we only consider recruiting applicants who made a few relevant pull requests to the project first. A good starting point would be to improve the current VOIP graphical user interface.
+* we only consider recruiting applicants who made a few relevant pull requests to the project first. In other words, you may consider meeting the devs on the dev chat room/forum, 
+	and do small scale contributions to the current VOIP graphical user interface for a start. Ask for the Retroshare Dev Tor node key in order to quickly reach these chat/forums.
+
