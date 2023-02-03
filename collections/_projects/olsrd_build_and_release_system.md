@@ -9,7 +9,7 @@ difficulty: medium
 status: open
 initiatives:
   - GSoC
-  - GSoC2022
+  - GSoC2023
 issues: []
 size: "175 hours"
 markdown: olsrd_build_and_release_system.md
@@ -22,7 +22,7 @@ requirements:
   - "github actions"
   - "bash"
 tags:
-  - GSoC2022
+  - GSoC2023
   - OLSRd
   - Legacy
   - build

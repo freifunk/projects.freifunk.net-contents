@@ -7,10 +7,10 @@ developers_involved:
 difficulty: medium
 size: "350 hours"
 status: open
-email: ab+gsoc2022@andi95.de
+email: ab+gsoc2023@andi95.de
 initiatives:
   - GSoC
-  - GSoC2022
+  - GSoC2023
 issues:
   - "https://github.com/freifunk/voctoweb/issues/2"
 markdown: voctoweb-split-content-and-logic.md
@@ -23,7 +23,7 @@ requirements:
   - "refactoring, migrations"
   - "ruby, html, javascript"
 tags:
-  - GSoC2022
+  - GSoC2023
   - json
   - web
   - voctoweb

@@ -10,7 +10,7 @@ difficulty: medium
 status: open
 initiatives:
   - GSoC
-  - GSoC2022
+  - GSoC2023
 issues:
   - https://github.com/openwrt/luci/issues/3378
 size: "175 hours"
@@ -23,7 +23,7 @@ requirements:
   - "javascript"
   - "ash"
 tags:
-  - GSoC2022
+  - GSoC2023
   - OpenWrt
   - UI
   - configuration

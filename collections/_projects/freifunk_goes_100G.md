@@ -9,7 +9,7 @@ difficulty: midrange
 status: open
 initiatives:
   - GSoC
-  - GSoC2022
+  - GSoC2023
 issues:
 size: "350 hours"
 markdown: freifunk_goes_100G.md
@@ -20,7 +20,7 @@ requirements:
   - "Ansi C"
   - "ash"
 tags:
-  - GSoC2022
+  - GSoC2023
   - OpenWrt Build Env
   - Linux Kernel
 ---

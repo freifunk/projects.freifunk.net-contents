@@ -9,7 +9,7 @@ difficulty: tough
 status: open
 initiatives:
   - GSoC
-  - GSoC2022
+  - GSoC2023
 issues:
 size: "350 hours"
 markdown: wifi_device_clustering_and_fingerprinting.md
@@ -21,7 +21,7 @@ requirements:
   - "ash"
   - "Python"
 tags:
-  - GSoC2022
+  - GSoC2023
   - OpenWrt
   - statistics
   - mac80211
