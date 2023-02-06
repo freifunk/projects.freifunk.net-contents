@@ -8,7 +8,7 @@ status: open
 size: "175 hours"
 initiatives:
   - GSoC
-  - GSoC2022
+  - GSoC2023
 issues:
 markdown: openwrt_ppa.md
 mentors:
@@ -22,7 +22,7 @@ requirements:
   - "Makefiles"
   - "OpenWrt"
 tags:
-  - GSoC2022
+  - GSoC2023
   - OpenWrt
   - Kubernetes
   - Docker

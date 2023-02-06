@@ -8,7 +8,7 @@ mentors:
  - G10h4ck
 initiatives:
  - GSoC
- - GSoC2022
+ - GSoC2023
 tags:
  - GSoC
  - RetroShare

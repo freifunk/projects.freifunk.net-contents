@@ -11,6 +11,7 @@ size: "350 hours"
 status: open
 initiatives:
   - GSoC
+  - GSoC2023
 issues:
 mentors:
   - gferrero
@@ -22,7 +23,7 @@ requirements:
   - "Hardware for testing"
 tags:
   - GSoC
-  - GSoC2022
+  - GSoC2023
   - OpenWrt
   - LibreMesh
   - Networking
@@ -50,11 +51,11 @@ described needs.
 
 ##### GSoC Community Bonding
 
-* The student should enumerate all ethernet cable setups that migh be needed.
-* The student must have a LibreMesh repository fork.
-* The student must learn how to contribute code via merge request mechanism.
-* The student should relate comfortably with the LibreMesh developers.
-* The student should individuate one or more real world comminity network and establish a fluid cooperation relationship with them.
+* The contributor should enumerate all ethernet cable setups that migh be needed.
+* The contributor must have a LibreMesh repository fork.
+* The contributor must learn how to contribute code via merge request mechanism.
+* The contributor should relate comfortably with the LibreMesh developers.
+* The contributor should individuate one or more real world comminity network and establish a fluid cooperation relationship with them.
 
 
 ##### GSOC Midterm

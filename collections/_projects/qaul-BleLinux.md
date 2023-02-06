@@ -10,7 +10,7 @@ size: "350 hours"
 status: open
 initiatives:
   - GSoC
-  - GSoC2022
+  - GSoC2023
 issues: https://github.com/qaul/qaul.net/issues/314
 markdown: qaul-BleLinux.md
 mentors:
@@ -19,7 +19,7 @@ requirements:
   - "Rust"
   - BLE
 tags:
-  - GSoC2022
+  - GSoC2023
   - qaul
   - Rust
   - Bluetooth

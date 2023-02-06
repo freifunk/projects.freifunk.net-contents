@@ -9,7 +9,7 @@ difficulty: tough
 status: open
 initiatives:
   - GSoC
-  - GSoC2022
+  - GSoC2023
 issues:
 size: "350 hours"
 markdown: google_coral_board_support.md
@@ -21,7 +21,7 @@ requirements:
   - "ash"
   - "Python"
 tags:
-  - GSoC2022
+  - GSoC2023
   - OpenWrt
   - machine learning
   - CNN

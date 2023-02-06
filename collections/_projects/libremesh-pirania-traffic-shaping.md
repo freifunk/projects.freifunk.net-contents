@@ -13,7 +13,7 @@ mentors:
  - Ilario
 initiatives:
  - GSoC
- - GSoC2022
+ - GSoC2023
 tags:
  - LibreMesg
  - Pirania
@@ -33,14 +33,14 @@ The problem is absolutely non-trivial, and the technical tools needed will be at
 
 #### Milestones
 
-##### GSOC 2022 COMMUNITY BONDING
+##### GSOC 2023 COMMUNITY BONDING
 
 * Conceptual work should produce a coherent proposal to be submitted to the community for the review.
-* The student have a fork of the lime-packages repository and have learnt the basics of Git.
+* The contributor have a fork of the lime-packages repository and have learnt the basics of Git.
 * The applicant should have joined all of the communication channel of the project and met the community in the periodic online meetings.
 * An initial blog post will be written, with the invitation to propose alternative solutions for the identified challenges.
 
-##### GSOC 2022 MIDTERM
+##### GSOC 2023 MIDTERM
 
 * Conceptual work should be completed, the functions to be implemented and the tools should be fixed.
 * The applicant should have a working testing platform, either physical or virtual.
@@ -50,7 +50,7 @@ The problem is absolutely non-trivial, and the technical tools needed will be at
 * The applicant should be familiarized with Traffic Control for Smart Queue Management configuration and running.
 * A mid term blog post will be written.
 
-##### GSOC 2022 FINAL
+##### GSOC 2023 FINAL
 
 * The patch for Pirania should be functional even if not completely polished.
 * Everything has to be reviewed and merged.
