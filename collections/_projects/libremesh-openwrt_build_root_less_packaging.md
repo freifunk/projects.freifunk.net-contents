@@ -5,13 +5,12 @@ desc: "LiMe OpenWrt build-root-less package generator"
 developers_involved: []
 difficulty: medium
 size: "350 hours"
-status: open
+status: disabled
 initiatives:
   - GSoC
 issues:
 markdown: libremesh-openwrt_build_root_less_packaging.md
 mentors:
-  - gferrero
   - spiccinini
 name: "LiMe OpenWrt build-root-less package generator"
 requirements:
