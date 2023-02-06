@@ -10,7 +10,6 @@ issues:
  - "https://github.com/libremesh/lime-packages/issues/875"
 mentors:
  - spiccinini
- - gferrero
 initiatives:
  - GSoC
  - GSoC2023

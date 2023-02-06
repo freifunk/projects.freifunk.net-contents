@@ -11,7 +11,6 @@ initiatives:
 issues:
 markdown: libremesh-openwrt_build_root_less_packaging.md
 mentors:
-  - gferrero
   - spiccinini
 name: "LiMe OpenWrt build-root-less package generator"
 requirements:

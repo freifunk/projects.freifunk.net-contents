@@ -14,7 +14,6 @@ initiatives:
   - GSoC2023
 issues:
 mentors:
-  - gferrero
   - spiccinini
 requirements:
   - "Lua programming language"
