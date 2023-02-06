@@ -5,11 +5,10 @@ requirements:
  - "The applicant needs to have an understanding of low level programming."
 difficulty: medium
 size: "350 hours"
-status: open
+status: disabled
 issues:
  - "https://github.com/libremesh/lime-packages/issues/875"
 mentors:
- - spiccinini
 initiatives:
  - GSoC
  - GSoC2023

@@ -5,7 +5,7 @@ desc: "LiMe OpenWrt build-root-less package generator"
 developers_involved: []
 difficulty: medium
 size: "350 hours"
-status: open
+status: disabled
 initiatives:
   - GSoC
 issues:

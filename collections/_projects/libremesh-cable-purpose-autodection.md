@@ -8,13 +8,12 @@ collaborating_projects:
 developers_involved: []
 difficulty: medium
 size: "350 hours"
-status: open
+status: disabled
 initiatives:
   - GSoC
   - GSoC2023
 issues:
 mentors:
-  - spiccinini
 requirements:
   - "Lua programming language"
   - "Networking Knowledge"
