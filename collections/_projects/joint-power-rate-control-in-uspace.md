@@ -9,7 +9,7 @@ difficulty: "tough"
 size: "350 hours"
 issues:
 mentors:
- - Bluse-Blue (thuehn)
+ - thuehn
  - schuza
 initiatives:
  - GSoC
