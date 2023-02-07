@@ -15,8 +15,8 @@ size: "350 hours"
 issues:
  - "https://github.com/coala/coala/issues/####"
 mentors:
- - Cristina
- - Ilario
+ - digitigrafo
+ - ilario
 initiatives:
  - GSoC
  - GSoC2023
