@@ -31,7 +31,7 @@ Create a set of automated tasks to install services on a Raspberry Pi to meet th
 
 Similar projects or packages:
 https://gitlab.com/librerouter/miniserver
-https://github.com/libremesh/lime-packages/blob/master/packages/altermundi-grafana
+https://github.com/libremesh/lime-packages/tree/master/packages/altermundi-grafana
 
 The use case is a growing fragmented network with islands of nodes and users; but with a collective management having an overarching vision on what is happening in the network and giving feedback to the users by the [Lime-App](https://github.com/libremesh/lime-app). 
 

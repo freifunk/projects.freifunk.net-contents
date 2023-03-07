@@ -39,13 +39,13 @@ Accordingly, the goal of this project is to port Freifunk/OpenWrt [6] OS to the 
 #### Resources
 
 * [1] https://github.com/opencomputeproject/SAI
-* [2] https://azure.github.io/SONiC/
+* [2] https://sonic-net.github.io/SONiC/
 * [3] https://github.com/openvswitch/of-config
 * [4] https://www.kernel.org/doc/html/latest/networking/switchdev.html
 * [5] https://www.kernel.org/doc/Documentation/networking/dsa/dsa.txt
 * [6] https://openwrt.org/
 * [7] https://github.com/Mellanox/mlxsw/wiki
-* [8] https://opencomputeproject.github.io/onie
+* [8] https://opencomputeproject.github.io/onie/
 
 #### Milestones
 
