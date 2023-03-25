@@ -1,7 +1,7 @@
 # projects.freifunk.net-contents
 contents to be displayed at our projects-page
 
-## Defining Projects
+## Defining Project
 
 Mentors and admins can define projects in markdown using the following structure and save it in the collections/_projects folder with a relevant filename:
 
