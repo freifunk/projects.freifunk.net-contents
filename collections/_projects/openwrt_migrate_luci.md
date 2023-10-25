@@ -7,7 +7,7 @@ developers_involved:
   - jow
   - aparcar
 difficulty: medium
-status: open
+status: completed 
 initiatives:
   - GSoC
   - GSoC2023

@@ -1,6 +1,7 @@
 ---
 name: "Automation tools for LibreMesh firmware build and monitoring"
 desc: "Automate the compilation system, configuration and monitoring of LibreMesh using Ansible. Integrate with its web interface Lime-App"
+status: completed
 requirements:
  - "Analyzing and coding"
  - "Prometheus"

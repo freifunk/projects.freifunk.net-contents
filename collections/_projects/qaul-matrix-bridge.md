@@ -8,7 +8,7 @@ developers_involved:
   - Saces
 difficulty: medium
 size: "350 hours"
-status: open
+status: completed
 initiatives:
   - GSoC
   - GSoC2023

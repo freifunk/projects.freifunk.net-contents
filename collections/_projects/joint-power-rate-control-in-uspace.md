@@ -1,6 +1,7 @@
 ---
 name: "Joint Power and Rate Control in User space for Freifunk OpenWrt Mesh & Access Networks"
 desc: "Developing a WiFi resource allocation algorithm in user space which exploits both transmission rates and power levels."
+status: completed
 requirements:
  - Python
  - Linux

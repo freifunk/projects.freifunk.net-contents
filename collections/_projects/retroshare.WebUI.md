@@ -5,7 +5,7 @@ desc: "Improve the web interface of Retroshare"
 developers_involved: []
 difficulty: easy
 size: "175 hours"
-status: open
+status: completed 
 initiatives:
   - GSoC
   - GSoC2023
