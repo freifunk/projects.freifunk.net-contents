@@ -25,16 +25,16 @@ tags:
   - Linux Kernel
 ---
 
-Current Freifunk Community networks accross Europe are expanding their wireless P2P backbone infrastruture to wired fibre links, hence capacities beyond 10GBit/s are achieveable.
-Today's switching hardware can be categorised into three design aproaches:
-    - Switch Abstraction Interface (SAI) [1] which is leveraged by SONiC (NOS) [2] 
+Current Freifunk Community networks across Europe are expanding their wireless P2P backbone infrastructure to wired fibre links, hence capacities beyond 10GBit/s are achievable.
+Today's switching hardware can be categorised into three design approaches:
+    - Switch Abstraction Interface (SAI) [1] which is leveraged by SONiC (NOS) [2]
     - OF-CONFIG [3] which enables to configure the forwarding plane of Broadcom-based switches
     - Switchdev (Linux kernel API [4]), which could be leveraged by the Distributed Switch Architecture (DSA) [5]
 
 Moreover, other approaches exist to expose the packet handling/forwarding into the user space
- - DPDK/VPP interface that would require a significant re-emplementation of the Freifunk network stack and features such as olsrd/batman/babel routing deamons. The flexible switchdev Linux kernel API builds upon standard Linux tools such as IP etc. this enables Freifunk communities to code as well as add features running atop a classical Linux-based system also on devices beyond 10 Gbps interfaces. Since NVIDIA Mellanox Spectrum II switches implement the Linux kernel switchdev API, they seem to be a reasonable choice to achieve this goal.
+ - DPDK/VPP interface that would require a significant re-implementation of the Freifunk network stack and features such as olsrd/batman/babel routing daemons. The flexible switchdev Linux kernel API builds upon standard Linux tools such as IP etc. this enables Freifunk communities to code as well as add features running atop a classical Linux-based system also on devices beyond 10 Gbps interfaces. Since NVIDIA Mellanox Spectrum II switches implement the Linux kernel switchdev API, they seem to be a reasonable choice to achieve this goal.
 
-Accordingly, the goal of this project is to port Freifunk/OpenWrt [6] OS to the Mellanox Spectrum II-based switch[7] hardware - in such a way, that the ONIE [8] bootloader triggers an OpenWrt boot, daemons such as olsrd/batman/babel routing deamons can run as usual, and (Q)SFP-based ports are deployable on fiber links.
+Accordingly, the goal of this project is to port Freifunk/OpenWrt [6] OS to the Mellanox Spectrum II-based switch[7] hardware - in such a way, that the ONIE [8] bootloader triggers an OpenWrt boot, daemons such as olsrd/batman/babel routing daemons can run as usual, and (Q)SFP-based ports are deployable on fiber links.
 
 #### Resources
 

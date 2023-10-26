@@ -3,7 +3,7 @@ name: "Transmit Power Control for Mediatek IEEE 802.11ac WiFi Chips"
 desc: "Developing and testing Transmit Power Control for Mediatek IEEE 802.11ac (VHT) WiFi Chips"
 collaborating_projects:
   - openwrt.org
-devlopers_involved:
+developers_involved:
   - thuehn
 difficulty: tough
 status: open

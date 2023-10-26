@@ -3,7 +3,7 @@ name: "qaul RPC user authentication layer"
 desc: "libqaul <-> GUI protobuf RPC authentication"
 collaborating_projects:
   - qaul
-developers_involved: 
+developers_involved:
   - MathJud
 difficulty: medium
 size: "350 hours"

@@ -28,7 +28,7 @@ tags:
   - Linux Kernel
 ---
 
-The Coral Board integrates a Google Coral Edge Tensor Processing Unit (TPU) as Mini PCIe Accelerator [1], 
+The Coral Board integrates a Google Coral Edge Tensor Processing Unit (TPU) as Mini PCIe Accelerator [1],
 M.2 Accelerator A+E key or via USB. The TPU can be leveraged to run TensorFlow Light models on embedded systems. The goal is to integrate the board and environment into the OpenWrt build environment [2].
 
 Moreover, within the GSoC project, the task is to come up with a simple example [3] to demonstrate the capabilities of the Coral board. Thus, the goal is to develop and evaluate some use cases such as device fingerprinting etc.

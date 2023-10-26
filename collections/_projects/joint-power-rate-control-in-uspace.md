@@ -50,7 +50,7 @@ In Linux-based devices, the resource allocation is handled in the mac80211 kerne
 
 * Implement a simple rate and power control for desk experiments with complete documentation.
 * Test and validate transmit power control for mt76 and ath9k driver.
-* Concrete formulation of the the final joint rate and power control with proper evaluation.
+* Concrete formulation of the final joint rate and power control with proper evaluation.
 * Create diagram/s to depict the software architecture of the proposed joint rate and power control.
 
 ##### GSOC FINAL

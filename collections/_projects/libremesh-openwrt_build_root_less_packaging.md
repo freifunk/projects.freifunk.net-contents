@@ -29,7 +29,7 @@ tags:
 To contribute to LibreMesh most of the time one have to create a new module that
 is usually shipped as an OpenWrt package. People that have been joining
 LibreMesh development over time have been encountering a steep learning curve
-expecially packaging their modules, because of the complexity of OpenWrt
+especially packaging their modules, because of the complexity of OpenWrt
 build-root. Those packages most of the time consists just of a couple of Lua or
 shell scripts that doesn't need cross-compiling and other advanced features
 provided by OpenWrt build-root.

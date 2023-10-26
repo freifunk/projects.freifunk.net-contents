@@ -43,7 +43,7 @@ Your GSoC Project
  * Project Details - more detailed description
  * Project Size - choose to spend 175 hours or 350 hours.
  * Project Schedule - provide a rough timetable with milestones for every 2 weeks
- * Availability - How do you plan to spend the designated work hours during the summer? Do you choose the standard 
+ * Availability - How do you plan to spend the designated work hours during the summer? Do you choose the standard
 
 After GSoC
 -----

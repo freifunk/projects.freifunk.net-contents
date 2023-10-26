@@ -5,7 +5,7 @@ desc: "Improve the web interface of Retroshare"
 developers_involved: []
 difficulty: easy
 size: "175 hours"
-status: completed 
+status: completed
 initiatives:
   - GSoC
   - GSoC2023
@@ -31,7 +31,7 @@ This interface needs to be completed, which may still need quite a lot of work. 
 Missing components are the following:
 
 * implement panels for software configuration
-* implement panels for configuring and visualizing own shared files 
+* implement panels for configuring and visualizing own shared files
 * implement the display of forums
 
 ##### PREPARATION/BONDING

@@ -71,7 +71,7 @@ Answer
 
 ### Advanced way
 
-* install ruby and gem as prerequsites
+* install ruby and gem as prerequisites
 * install jekyll: ```sudo gem install jekyll bundler```
 * checkout projects software ```git checkout https://github.com/freifunk/projects```
 * delete contents of the original software

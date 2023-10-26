@@ -40,7 +40,7 @@ This is definitely a full-time project.
 
 #### Milestones
 
-* properly represent social network objects (posts,images,comments,...) using internal GXS primitives (Groups, Circles, Identities, etc). 
+* properly represent social network objects (posts,images,comments,...) using internal GXS primitives (Groups, Circles, Identities, etc).
 This is to be discussed with the developers.
 * create the plugin interface to the backend.
 * create the GUI for the Wall/Twitter/Blog service (preferably Qt. Could be Json+web, but would add some complexity)
@@ -51,5 +51,5 @@ This is to be discussed with the developers.
 * get familiar with the Retroshare network
 * understand how GXS works. A white paper is available here: https://hal.inria.fr/hal-01617423
 * discuss possible options with the developers
-* we only recruit applicants who made relevants pull requests to the project before the selection period begins. Ask for the key to the dev Tor node (retroshare.project@gmail.com) and meet the devs in the dev forum/chat rooms.
+* we only recruit applicants who made relevant pull requests to the project before the selection period begins. Ask for the key to the dev Tor node (retroshare.project@gmail.com) and meet the devs in the dev forum/chat rooms.
 

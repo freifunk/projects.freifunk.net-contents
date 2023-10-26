@@ -1,5 +1,5 @@
 ---
-name: "Implement traffic priorization in Pirania captive portal for mesh networks"
+name: "Implement traffic prioritization in Pirania captive portal for mesh networks"
 desc: "Pirania captive portal is a voucher-based captive portal used in LibreMesh. In order to have guest access, this should have a lower priority, managed via Traffic Control."
 requirements:
  - "The applicant needs to have understanding of networking in mesh networks."
@@ -25,9 +25,9 @@ collaborating_projects:
 
 Pirania captive portal is already in production in some community networks running LibreMesh on their routers.
 The usage of Pirania helps the community to pay the bill from the internet service provider.
-But LibreMesh project also tries to open the access to the local and remote digital resources to everyone, and for this reason the availability of a guest access would be reccomended.
+But LibreMesh project also tries to open the access to the local and remote digital resources to everyone, and for this reason the availability of a guest access would be recommended.
 This will require that the presence of a connected guest client does not slow down the connection of the owner of the gateway or of who actually paid for having a Pirania voucher.
-In order to achieve this, the data packets needs to have different priorities depending on the originating client, diregard the mesh node (access point) this client is connected to.
+In order to achieve this, the data packets needs to have different priorities depending on the originating client, disregard the mesh node (access point) this client is connected to.
 The problem is absolutely non-trivial, and the technical tools needed will be at least Traffic Control, Smart Queue Management, and iptables.
 
 #### Milestones

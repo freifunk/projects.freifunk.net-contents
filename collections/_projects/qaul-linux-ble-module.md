@@ -3,7 +3,7 @@ name: "qaul BLE Module for Linux with BlueR"
 desc: "Create a Linux BLE (Bluetooth Low Energy) module which compatible to the two existing modules for Android & iOS."
 collaborating_projects:
   - qaul
-developers_involved: 
+developers_involved:
   - MathJud
 difficulty: medium
 size: "350 hours"
@@ -47,7 +47,7 @@ It shall do the following things:
 
 The module is independent and will communicate via protobuf to the controlling backend library libqaul.
 
-`BlueR` is the official Bluetooth low energy repository for for rust.
+`BlueR` is the official Bluetooth low energy repository for rust.
 <https://github.com/bluez/bluer>
 
 Prototypes with partial functionality already exist.
