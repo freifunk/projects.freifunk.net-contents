@@ -4,7 +4,7 @@ collaborating_projects:
 desc: "Extend the openwrt PPA, or Personal Package Archive"
 developers_involved: [ ]
 difficulty: medium
-status: completed 
+status: completed
 size: "175 hours"
 initiatives:
   - GSoC

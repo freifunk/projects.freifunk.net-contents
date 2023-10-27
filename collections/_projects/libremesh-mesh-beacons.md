@@ -1,6 +1,6 @@
 ---
 name: "Mesh beacons: low bitrate communication in disconnected mesh radios"
-desc: "Provide a mechanism for mesh nodes to exchange (more) information with their peers without the need to be associated (scanning only). This has many usefull use cases, from knowing the name of the node before connecting, to aiding antenna alignment with low quality signal, etc."
+desc: "Provide a mechanism for mesh nodes to exchange (more) information with their peers without the need to be associated (scanning only). This has many useful use cases, from knowing the name of the node before connecting, to aiding antenna alignment with low quality signal, etc."
 requirements:
  - "The applicant needs to have an understanding of low level programming."
 difficulty: medium
@@ -25,8 +25,8 @@ collaborating_projects:
 ---
 
 Exchanging information between disconnected 802.11s peers is important because connection takes a lot of time and/or the signal quality is not enough to reliably connect but is enough to send/receive some packets.
-In OpenWrt 802.11s implementation there is no known easy way to add and retrieve information in the beacons albeit the specification of 802.11s provides ways of adding custom information. 
-The contributor will have to study the Linux kernel implementation of 802.11s to double check if Linux provides a way to add information to the baeacons and also a way to retrieve this custom information.
+In OpenWrt 802.11s implementation there is no known easy way to add and retrieve information in the beacons albeit the specification of 802.11s provides ways of adding custom information.
+The contributor will have to study the Linux kernel implementation of 802.11s to double check if Linux provides a way to add information to the beacons and also a way to retrieve this custom information.
 
 If there is no support in Linux then the project can take two paths:
 

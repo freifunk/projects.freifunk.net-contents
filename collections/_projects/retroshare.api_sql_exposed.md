@@ -13,18 +13,18 @@ initiatives:
  - GSoC
  - GSoC 2022
 tags:
- - Decentralized 
- - GSoC 
+ - Decentralized
+ - GSoC
  - RetroShare
 collaborating_projects:
  - "RetroShare"
 ---
 
-The idea is to expose diferent endpoints to interact with the RetroShare database, creating databases, tables, relations... 
-Then, make sure that this databse will correctly work on a distributed network paradigm. 
+The idea is to expose different endpoints to interact with the RetroShare database, creating databases, tables, relations...
+Then, make sure that this database will correctly work on a distributed network paradigm.
 
-On this way, we could use libretroshare just as a library where to build decentriled apps easier. Would be much easy to implement any
-use to the app, exploiting the already existing distributed features of RS. 
+On this way, we could use libretroshare just as a library where to build decentralized apps easier. Would be much easy to implement any
+use to the app, exploiting the already existing distributed features of RS.
 
 #### Milestones
 

@@ -3,7 +3,7 @@ name: "qaul Matrix Bridge"
 desc: "Create a matrix bridge for the qaul messenger App"
 collaborating_projects:
   - qaul
-developers_involved: 
+developers_involved:
   - MathJud
   - Saces
 difficulty: medium
@@ -64,7 +64,7 @@ qaul is written in rust, uses rust-libp2p internally and has a cross platform fl
 
 * create a concept for your project (application phase)
 * create a detailed concept for the relay bridge
-* implement the releay bridge
+* implement the relay bridge
   * implement the libqaul part in rust
   * create a golang matrix communication part
 * create a detailed concept for double-puppeting

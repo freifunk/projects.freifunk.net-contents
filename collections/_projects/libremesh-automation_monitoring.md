@@ -34,7 +34,7 @@ Similar projects or packages:
 https://gitlab.com/librerouter/miniserver
 https://github.com/libremesh/lime-packages/tree/master/packages/altermundi-grafana
 
-The use case is a growing fragmented network with islands of nodes and users; but with a collective management having an overarching vision on what is happening in the network and giving feedback to the users by the [Lime-App](https://github.com/libremesh/lime-app). 
+The use case is a growing fragmented network with islands of nodes and users; but with a collective management having an overarching vision on what is happening in the network and giving feedback to the users by the [Lime-App](https://github.com/libremesh/lime-app).
 
 Create a set of Ansible roles to replicate the OpenWrt build-system, to speed-up the process of self-building images for OpenWrt and/or LibreMesh for newcomers, and to easily setup a dedicated machine, with the possibility to later extend the process of build to other automated tasks, like a pub-keys-exchange needed for configuring a VPN, or to update documentations or a webapp.
 The Ansible roles would include tasks to build for: different architectures and targets; different OpenWrt and LibreMesh versions; keeping trace of devices with particular needs and related patches; keeping a local list of supported targets; provide a basic functionality to setup a VPN. This should also provide a main configuration file for each device, and the use of the main configuration tools available on LibreMesh, like +/etc/config/lime-*+ and especially +lime-macaddress+ files, "generic-uci-config, lime-asset" functionalities, and configurations and packages provided by community [network-profiles](https://github.com/libremesh/network-profiles) or local packages.

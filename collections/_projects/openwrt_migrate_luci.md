@@ -7,7 +7,7 @@ developers_involved:
   - jow
   - aparcar
 difficulty: medium
-status: completed 
+status: completed
 initiatives:
   - GSoC
   - GSoC2023
@@ -29,9 +29,9 @@ tags:
   - configuration
 ---
 
-`OpenWrt` is a distribution for embedded devices such as WiFi router etc. `LuCI` is a framework to build a web interface for configuration and monitoing.
+`OpenWrt` is a distribution for embedded devices such as WiFi router etc. `LuCI` is a framework to build a web interface for configuration and monitoring.
 
-With the old system all pages are rendered on the router delivering html to the browser. This leads to a higher load on the embedded devices. To reduce this load, rendering should be outsoruced to the browser. The framework LuCI itself is already prepared for this and provides a client side API.
+With the old system all pages are rendered on the router delivering html to the browser. This leads to a higher load on the embedded devices. To reduce this load, rendering should be outsourced to the browser. The framework LuCI itself is already prepared for this and provides a client side API.
 
 Data will be provided via rpcd and ubus in a JSON format. You probably have to write new rpcd services to provide data that was formerly used directly on the router. Services are usually written as ash script.
 

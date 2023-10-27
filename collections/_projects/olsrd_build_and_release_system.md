@@ -30,7 +30,7 @@ tags:
   - testing
 ---
 
-The Optimized Link State Routing Protocol (`OLSR`) is an IP routing protocol optimized for mobile ad hoc networks, which can also be used on other wireless ad hoc networks. 
+The Optimized Link State Routing Protocol (`OLSR`) is an IP routing protocol optimized for mobile ad hoc networks, which can also be used on other wireless ad hoc networks.
 
 `OLSR` was one of the first protocols created nearly 20 years ago. For some use cases, it's still a reliable and stable protocol and is still used in several wireless network communities.
 

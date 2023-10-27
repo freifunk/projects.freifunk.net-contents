@@ -1,6 +1,6 @@
 ---
 name: "WiFi device clustering and fingerprinting"
-desc: "Realization of an approach to perform WiFi device clustering and fingerpriting"
+desc: "Realization of an approach to perform WiFi device clustering and fingerprinting"
 collaborating_projects:
   - openwrt.org
 developers_involved:
@@ -56,7 +56,7 @@ Within the project, both approaches are combined to perform a client-based clust
 
 * Implementation of different tools
 * Integration of the tools and APIs into OpenWrt
-* Ralization of the measurement environment
+* Realization of the measurement environment
 * Collection of privacy-preserving statistics
 * Evaluation of the use case
 

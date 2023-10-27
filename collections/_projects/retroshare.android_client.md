@@ -34,7 +34,7 @@ very recently a user interface has been designed to work with it.
 * Introduce the support of  CI/CD / Github actions.
 * Provide a proper APK packaging pipeline.
 
-Most of the machinery that allows the Android client to talk to the running Retroshare core is now 
+Most of the machinery that allows the Android client to talk to the running Retroshare core is now
 well established, and the work in this project will consist into creating the missing functionalities
 described above.
 
@@ -50,7 +50,7 @@ This project requires the following steps:
 ##### PREPARATION/BONDING
 
 We will only recruit applicants who made proper pull requests to https://github.com/RetroShare/retroshare-mobile
-before the 
+before the
 selection process begins. The developer team can (and probably should) be contacted in order to get some ideas of simple contributions
 to make at this step.
 
