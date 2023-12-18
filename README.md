@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> We merged projects with the website repository. Please visit the repository of [projects.freifunk.net](https://github.com/freifunk/projects/tree/main/_projects) to add or edit your project.
+
+
 # projects.freifunk.net-contents
 contents to be displayed at our projects-page
 
